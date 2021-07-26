@@ -14,5 +14,5 @@ As the Director of Operations of Women in Analytics, a global community that pro
 Let's Connect!
 </h5>
 <p style="font-size:16px;">
-Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. 
+Get in touch via email or any of the social media channels linked below.
 </p>
