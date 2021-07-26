@@ -2,9 +2,9 @@
 ## About 
 
 
-<h1 style="font-family:Open Sans; font-size:16px;">
+<p style="font-family:Open Sans; font-size:16px;">
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems. Let's connect!
-</h1>
+</p>
 </br></br>
 <p style="font-family:Open Sans; font-size:12px;">
 Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. 
