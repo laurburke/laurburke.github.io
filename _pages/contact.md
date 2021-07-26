@@ -1,9 +1,12 @@
 ---
 title:  "Contact"
-layout: archive
+layout: single
 permalink: /contact/
 author_profile: true
 comments: false
 ---
 
-This is my contact page.
+Get in Touch
+
+laurenemilyburke17@gmail.com
+
