@@ -25,10 +25,42 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://laurburke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: lauren_e_burke
+github_username:  laurburke
 repository: laurburke/laurburke.github.io
+
+author:
+  name             : "Lauren Burke"
+  avatar           : https://avatars.githubusercontent.com/laurburke
+  bio              : "Data Scientist"
+  location         : "Columbus"
+  email            : laurenemilyburke17@gmail.com
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : laurburke
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : lauren-e-burke
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+
+
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
