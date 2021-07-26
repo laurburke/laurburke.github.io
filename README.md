@@ -1,7 +1,3 @@
-
-## About 
-
-
 <h4 style="font-family:Open Sans; font-size:16px;">
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems. Let's connect!
 </h4>
