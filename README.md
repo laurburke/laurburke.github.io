@@ -1,5 +1,7 @@
-About 
 
-Lauren Burke is a Data Scientist. 
+## About 
 
-I am in <span style="font-family:Papyrus; font-size:10px;">LOVE!</span>
+
+<span style="font-family:Papyrus; font-size:12px;">
+  Hi, I'm Lauren Burke and I find creative solutions to complex problems.
+</span>
