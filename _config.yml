@@ -34,7 +34,7 @@ author:
   name             : "Lauren Burke"
   avatar           : https://avatars.githubusercontent.com/laurburke
   bio              : "Data Scientist"
-  location         : "Columbus"
+  location         : "Columbus, OH"
   email            : laurenemilyburke17@gmail.com
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : laurburke
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -54,7 +54,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : lauren_e_burke
   vine             :
   weibo            :
   xing             :
@@ -64,6 +64,9 @@ author:
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air" 
+# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
