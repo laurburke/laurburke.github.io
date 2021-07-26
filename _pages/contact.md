@@ -1,6 +1,6 @@
 ---
 title:  "Markdown"
-layout: default
+layout: archive
 permalink: /contact/
 author_profile: true
 comments: false
