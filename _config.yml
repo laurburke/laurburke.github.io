@@ -95,6 +95,10 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Reading Files
+include:
+  - .htaccess
+  - _pages
 
 
 #formatting post
@@ -110,3 +114,15 @@ defaults:
       comments: true
       share: true
       related: true
+  #pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+
