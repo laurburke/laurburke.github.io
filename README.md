@@ -1,4 +1,4 @@
-<h4 style=font-size:20px;">
+<h4 style="font-size:20px;">
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems. Let's connect!
 </h4>
 <p style="font-size:16px;">
