@@ -18,7 +18,7 @@ Get in touch via email or any of the social media channels linked below.
 </p>
 
 
-div class="layout">
+<div class="layout">
   <div class="layout__item layout__item--body">
     <h2>Lorem Ipsum</h2>
     <p>
