@@ -9,29 +9,27 @@ Outside of work, I'm an active member of my local and larger tech communities.
 As the Director of Operations of Women in Analytics, a global community that promotes visibility to women making an impact in the analytics space, my primary focuses lie in marketing, strategy, and community growth. I've has launched multiple initiatives including the Ambassador Program, Women to Watch, and merchandise while expanding numerous others.
 </p>
 
-<style type="text/css">
-    .image-left {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      float: right;
-    }
-    </style>
+{% include module.html image_path="assets/images/LB.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
+
+
+Some text.
+
+
 
 
 <h4 style="font-size:20px;">
 Community Involvement
 </h4>
 <p style="font-size:16px;">
-Get in touch via email or any of the social media channels linked below.
+[TECH CORPS](https://techcorps.org/)
 </p>
 
-![Some Title]("assets/images/personal-branding-in-analytics.JPG"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
-
-<p><img src="assets/images/personal-branding-in-analytics.JPG" width:"10" alt="Smiley face" style="float:right;">
-The image will float to the right of the text.
-</p>
+<h4 style="font-size:20px;">
+Speaking
+</h4>
+<p style="font-size:16px;">
+Here's a couple of...</p>
 
 
 
@@ -43,9 +41,10 @@ The image will float to the right of the text.
 
 
 
-<h5 style="font-size:20px;">
+<h4 style="font-size:20px;">
+  </br>
 Let's Connect!
-</h5>
+</h4>
 <p style="font-size:16px;">
 Get in touch via email or any of the social media channels linked below.
 </p>
