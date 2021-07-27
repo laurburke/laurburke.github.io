@@ -22,7 +22,6 @@ Community Involvement
 <h4 style="font-size:20px;">
 Speaking
 </h4>
-<br>
 {% include module.html image_path="assets/images/personal-branding-in-analytics.png" title="Personal Branding in Analytics" description="Panel discussion with UC San Diego Rady School of Management's Analytics Program." %}
 <br>
 {% include module.html image_path="assets/images/dnsummit.png" title="The Human Connection of Technology" description="Panel discussion at 2020 Disruption Now Summit." %}
