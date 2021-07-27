@@ -20,8 +20,12 @@ Get in touch via email or any of the social media channels linked below.
 
 
 <img align="right" src="assets/images/personal-branding-in-analytics.JPG" height="200">
+<img align="right" src="assets/images/dnsummit.jpeg" height="200">
+<img align="right" src="assets/images/bi-more-to-tech-than-coding.jpeg" height="200">
+<img align="right" src="assets/images/elevate-your-data-exploration.jpg" height="200">
+<img align="right" src="assets/images/cosi-sci-fest.jpg" height="200">
 
-</br>
+
 
 <h5 style="font-size:20px;">
 Let's Connect!
