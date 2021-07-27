@@ -19,7 +19,7 @@ Get in touch via email or any of the social media channels linked below.
 --fdljf
 
 
-<img align="right" src="assets/images/LB.png" width="100" height="100">
+<img align="right" src="assets/images/personal-branding-in-analytics.JPG" width="100">
 
 </br>
 
