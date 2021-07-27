@@ -2,12 +2,12 @@
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems.
 </h4>
 <p style="font-size:16px;">
-Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. <br>
+Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. <br> <br>
 
 Outside of work, I'm an active member of my local and larger tech communities. As the Director of Operations of <a href="https://womeninanalytics.com">Women in Analytics</a>, a global community that promotes visibility to women making an impact in the analytics space, my primary focuses lie in marketing, strategy, and community growth. Since joining the team, we have launched multiple initiatives including the Ambassador Program, Women to Watch, and merchandise while expanding numerous others.
 </p>
 
-
+<br>
 <h4 style="font-size:20px;">
 Community Involvement
 </h4>
@@ -18,6 +18,7 @@ Community Involvement
   <a href="https://cosi.org/">Center of Science & Industry (COSI)</a> description <br>
 </p>
 
+<br>
 
 <h4 style="font-size:20px;">
 Speaking
@@ -33,6 +34,7 @@ Speaking
 
 {% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Elevate Your Data Exploration" description="Partner event panel with AWS, Slalom, and WIBD." %}
 
+<br>
 
 <h4 style="font-size:20px;">
 Let's Connect!
