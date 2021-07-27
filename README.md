@@ -22,28 +22,3 @@ Get in touch via email or any of the social media channels linked below.
    <div class="column-1 box"></div>
    <div class="column-2 box"></div>
 </div>
-
-body {
-  margin: 0;
-  padding: 1rem;
-  max-width: 1200px;
-  margin: 30px auto;
-}
-
-.container{
-    display:flex;
-}
-
-.column-1 {
-  flex-shrink: 0; /* shrinks to 0 to apply 70% width*/
-  flex-basis: 70%; /* sets initial width to 70% */
-}
-
-.box {
-  background-color: rgb(245, 215, 160);
-  padding: 10px;
-  border-radius: 12px;
-  border: 2px solid rgb(116, 113, 113);
-  margin: 1rem;
-  box-shadow: 1px 1px 1px #000;
-}
