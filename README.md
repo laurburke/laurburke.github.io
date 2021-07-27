@@ -17,27 +17,12 @@ Let's Connect!
 Get in touch via email or any of the social media channels linked below.
 </p>
 
-.iconcontainer.first, .iconcontainer.second{
-  display: inline-block;
-  width:50%;
-  height:50%;
-}
 
-.iconcontainer img {
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-  width: 100%;
-  height: 100%;
-}
 
-p {
-  text-align: center;
-  font-family: 'Lato', sans-serif;
-  font-weight: 400;
-}
-
-.fullhome{
-  background-color: #FEF1D9;
-  height: 100%;
-}
+<div class='iconcontainer first'>
+    <img class='homeicons1' src="http://localyz.com/wp-content/uploads/2014/09/local-seo-reviews-icon.png">
+    <p>I want this under first image</p>
+  </div><div class='iconcontainer second'>
+  <img class='homeicons1' src="http://www.pd4pic.com/images800_/flat-keyboard-theme-typing-icon-types.png">
+  <p>I want this under second image</p>
+</div>
