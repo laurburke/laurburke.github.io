@@ -44,9 +44,10 @@ Here's a couple of...</p>
 
 
 
-<h5 style="font-size:20px;">
+<h4 style="font-size:20px;">
+  </br>
 Let's Connect!
-</h5>
+</h4>
 <p style="font-size:16px;">
 Get in touch via email or any of the social media channels linked below.
 </p>
