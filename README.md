@@ -11,7 +11,7 @@ As the Director of Operations of Women in Analytics, a global community that pro
 
 <img src="assets/images/LB.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; width: 10px; margin-right: 10px;" />
 
 <h4 style="font-size:20px;">
 Community Involvement
