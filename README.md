@@ -16,3 +16,28 @@ Let's Connect!
 <p style="font-size:16px;">
 Get in touch via email or any of the social media channels linked below.
 </p>
+
+.iconcontainer.first, .iconcontainer.second{
+  display: inline-block;
+  width:50%;
+  height:50%;
+}
+
+.iconcontainer img {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+p {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+
+.fullhome{
+  background-color: #FEF1D9;
+  height: 100%;
+}
