@@ -16,7 +16,7 @@ Community Involvement
 Get in touch via email or any of the social media channels linked below.
 </p>
 
-<p><img src="assets/images/personal-branding-in-analytics.JPG" alt="Smiley face" style="float:right;width:42px;height:42px;">
+<p><img src="assets/images/personal-branding-in-analytics.JPG" alt="Smiley face" style="float:right;width:100;height:100;">
 The image will float to the right of the text.
 </p>
 
