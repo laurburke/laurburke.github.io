@@ -18,8 +18,14 @@ Get in touch via email or any of the social media channels linked below.
 </p>
 
 
-
-<div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-6">
+            <Image scr="">
+            <Image scr="">
+            <Image scr="">
+        </div>
+        <div class="col-xs-6">text</div>
+        </div>
+    </div>
 </div>
