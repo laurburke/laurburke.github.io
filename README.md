@@ -9,15 +9,6 @@ Outside of work, I'm an active member of my local and larger tech communities.
 As the Director of Operations of Women in Analytics, a global community that promotes visibility to women making an impact in the analytics space, my primary focuses lie in marketing, strategy, and community growth. I've has launched multiple initiatives including the Ambassador Program, Women to Watch, and merchandise while expanding numerous others.
 </p>
 
-<style type="text/css">
-    .image-left {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      float: right;
-    }
-    </style>
-
 
 <h4 style="font-size:20px;">
 Community Involvement
@@ -25,7 +16,6 @@ Community Involvement
 <p style="font-size:16px;">
 Get in touch via email or any of the social media channels linked below.
 </p>
-
 
 
 <h4 style="font-size:20px;">
