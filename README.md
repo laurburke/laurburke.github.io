@@ -37,7 +37,7 @@ Here's a couple of...</p>
 
 {% include module.html image_path="assets/images/bi-more-to-tech-than-coding.jpeg" title="More to Tech than Coding: Engaging Young Learners on the Data Side" description="Part of the Bytes & Insights webinar series." %}
 
-{% include module.html image_path="elevate-your-data-exploration.jpg" title="Elevate Your Data Exploration" description="Partner event panel with AWS, Slalom, and WIBD." %}
+{% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Elevate Your Data Exploration" description="Partner event panel with AWS, Slalom, and WIBD." %}
 
 <h4 style="font-size:20px;">
   </br>
