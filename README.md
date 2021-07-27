@@ -7,7 +7,6 @@ Currently in the healthcare industry, I recently transitioned into product after
 Outside of work, I'm an active member of my local and larger tech communities. As the Director of Operations of <a href="https://womeninanalytics.com">Women in Analytics</a>, a global community that promotes visibility to women making an impact in the analytics space, my primary focuses lie in marketing, strategy, and community growth. Since joining the team, we have launched multiple initiatives including the Ambassador Program, Women to Watch, and merchandise while expanding numerous others.
 </p>
 
-<br>
 <h4 style="font-size:20px;">
 Community Involvement
 </h4>
@@ -18,7 +17,6 @@ Community Involvement
   <a href="https://cosi.org/">Center of Science & Industry (COSI)</a> description <br>
 </p>
 
-<br>
 
 <h4 style="font-size:20px;">
 Speaking
@@ -26,7 +24,7 @@ Speaking
 
 {% include module.html image_path="assets/images/personal-branding-in-analytics.JPG" title="Personal Branding in Analytics" description="Panel discussion with USD Rady School of Business' Analytics Program." %}
 
-{% include module.html image_path="assets/images/cosi-sci-fest.jpg" title="Experiementing with Probability" description="Activity created as part of the 2021 COSI Science Festival." %}
+{% include module.html image_path="assets/images/cosi-sci-fest.jpg" title="Experimenting with Probability" description="Activity created as part of the 2021 COSI Science Festival." %}
 
 {% include module.html image_path="assets/images/dnsummit.jpeg" title="The Human Connection of Technology" description="Panel discussion at 2020 Disruption Now Summit." %}
 
