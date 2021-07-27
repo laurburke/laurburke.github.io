@@ -33,7 +33,7 @@ repository: laurburke/laurburke.github.io
 
 author:
   name             : "Lauren Burke"
-  avatar           : https://avatars.githubusercontent.com/laurburke
+  avatar           : "assets/images/lauren-burke-headshot.jpeg"
   bio              : "Data Scientist"
   location         : "Columbus, OH"
   email            : laurenemilyburke17@gmail.com
