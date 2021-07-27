@@ -17,8 +17,7 @@ Get in touch via email or any of the social media channels linked below.
 </p>
 
 
-<img style="float: right;" src="LB.png">
-<img align="right" src="assets/images/LB.png">
+<img align="left" src="assets/images/LB.png">
 
 fff
 
