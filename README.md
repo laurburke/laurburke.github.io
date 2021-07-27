@@ -14,7 +14,7 @@ As the Director of Operations of Women in Analytics, a global community that pro
 Community Involvement
 </h4>
 <p style="font-size:16px;">
-Get in touch via email or any of the social media channels linked below.
+TECH CORPS
 </p>
 
 
