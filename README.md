@@ -21,7 +21,7 @@ Get in touch via email or any of the social media channels linked below.
 <div class="container">
     <div class="row">
         <div class="col-xs-6">
-            <Image scr="assets/images/LB.png">
+            <Image scr="https://github.com/laurburke/laurburke.github.io/blob/b1359b0c14a34a64ffdea9debe9739a6eedf679b/assets/images/LB.png">
             <Image scr="">
             <Image scr="">
         </div>
