@@ -18,14 +18,60 @@ Get in touch via email or any of the social media channels linked below.
 </p>
 
 
-<div class="container">
-    <div class="row">
-        <div class="col-xs-6">
-            <Image scr="https://github.com/laurburke/laurburke.github.io/blob/b1359b0c14a34a64ffdea9debe9739a6eedf679b/assets/images/LB.png">
-            <Image scr="">
-            <Image scr="">
-        </div>
-        <div class="col-xs-6">text</div>
-        </div>
-    </div>
+div class="layout">
+  <div class="layout__item layout__item--body">
+    <h2>Lorem Ipsum</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consetetur sadipscing
+      elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua.
+    </p>
+  </div>
+  <div class="layout__item layout__item--figure">
+    <img src="https://images.unsplash.com/photo-1516750930166-ed88ab1adb61?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=65c8f6fcafaf68f5fa434b5f076780fd&auto=format&fit=crop&w=600&q=80" alt="">
+  </div>
 </div>
+
+<div class="layout">
+  <div class="layout__item layout__item--body">
+    <h2>Lorem Ipsum</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consetetur sadipscing
+      elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua.
+    </p>
+  </div>
+  <div class="layout__item layout__item--figure">
+    <img src="https://images.unsplash.com/photo-1515362790300-999394721afc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2a78b6877abab91c16e757ada8c55e32&auto=format&fit=crop&w=600&q=80" alt="">
+  </div>
+</div>
+
+<div class="layout">
+  <div class="layout__item layout__item--body">
+    <h2>Lorem Ipsum</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consetetur sadipscing
+      elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua.
+    </p>
+  </div>
+  <div class="layout__item layout__item--figure">
+    <img src="https://images.unsplash.com/photo-1514747348279-46eb4082b804?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1b169d9f50db7714cd7373a3c181162a&auto=format&fit=crop&w=600&q=80" alt="">
+  </div>
+</div>
+
+<div class="layout">
+  <div class="layout__item layout__item--body">
+    <h2>Lorem Ipsum</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consetetur sadipscing
+      elitr, sed diam nonumy eirmod tempor invidunt ut
+      labore et dolore magna aliquyam erat, sed diam voluptua.
+    </p>
+  </div>
+  <div class="layout__item layout__item--figure">
+    <img src="https://images.unsplash.com/photo-1513843000111-3eb82159a25c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=82618557ca42a6477f6bb9390eea27bc&auto=format&fit=crop&w=600&q=80" alt="">
+  </div>
+</div>
+      
+  
