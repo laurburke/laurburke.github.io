@@ -22,10 +22,10 @@ Community Involvement
 Speaking
 </h4>
 
-{% include module.html image_path="assets/images/personal-branding-in-analytics.JPG" title="Personal Branding in Analytics" description="Panel discussion with USD Rady School of Business' Analytics Program." %}
-<br><br>
+{% include module.html image_path="assets/images/personal-branding-in-analytics.JPG" title="Personal Branding in Analytics" description="Panel discussion with UC San Diego Rady School of Management's Analytics Program." %}
+<br>
 {% include module.html image_path="assets/images/dnsummit.jpeg" title="The Human Connection of Technology" description="Panel discussion at 2020 Disruption Now Summit." %}
-<br><br><br>
+<br>
 {% include module.html image_path="assets/images/bi-more-to-tech-than-coding.jpeg" title="More to Tech than Coding: Engaging Young Learners on the Data Side" description="Part of the Bytes & Insights webinar series." %}
 <p></p>
 {% include module.html image_path="assets/images/cosi-sci-fest.jpg" title="Experimenting with Probability" description="Activity created as part of the 2021 COSI Science Festival." %}
