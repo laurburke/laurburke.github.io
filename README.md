@@ -16,32 +16,3 @@ Let's Connect!
 <p style="font-size:16px;">
 Get in touch via email or any of the social media channels linked below.
 </p>
-
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
-</table>
