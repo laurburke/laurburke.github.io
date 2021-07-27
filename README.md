@@ -19,7 +19,7 @@ Get in touch via email or any of the social media channels linked below.
 
 <img align="left" src="assets/images/LB.png">
 
-fff
+</br>
 
 <h5 style="font-size:20px;">
 Let's Connect!
