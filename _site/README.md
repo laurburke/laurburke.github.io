@@ -9,6 +9,16 @@ Outside of work, I'm an active member of my local and larger tech communities.
 As the Director of Operations of Women in Analytics, a global community that promotes visibility to women making an impact in the analytics space, my primary focuses lie in marketing, strategy, and community growth. I've has launched multiple initiatives including the Ambassador Program, Women to Watch, and merchandise while expanding numerous others.
 </p>
 
+<style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+    </style>
+
+
 <h4 style="font-size:20px;">
 Community Involvement
 </h4>
@@ -16,12 +26,22 @@ Community Involvement
 Get in touch via email or any of the social media channels linked below.
 </p>
 
---fdljf
+![Some Title]("assets/images/personal-branding-in-analytics.JPG"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
-<img align="right" src="assets/images/LB.png" width="100" height="100">
+<p><img src="assets/images/personal-branding-in-analytics.JPG" width:"10" alt="Smiley face" style="float:right;">
+The image will float to the right of the text.
+</p>
 
-</br>
+
+
+<img align="right" src="assets/images/personal-branding-in-analytics.JPG" width="200">
+<img align="right" src="assets/images/dnsummit.jpeg" width="200">
+<img align="right" src="assets/images/bi-more-to-tech-than-coding.jpeg" width="200">
+<img align="right" src="assets/images/elevate-your-data-exploration.jpg" width="200">
+<img align="right" src="assets/images/cosi-sci-fest.jpg" width="200">
+
+
 
 <h5 style="font-size:20px;">
 Let's Connect!
