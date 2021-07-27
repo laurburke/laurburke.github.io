@@ -27,9 +27,9 @@ Speaking
 {% include module.html image_path="assets/images/dnsummit.jpeg" title="The Human Connection of Technology" description="Panel discussion at 2020 Disruption Now Summit." %}
 <br>
 {% include module.html image_path="assets/images/bi-more-to-tech-than-coding.jpeg" title="More to Tech than Coding: Engaging Young Learners on the Data Side" description="Part of the Bytes & Insights webinar series." %}
-<p></p>
+<br>
 {% include module.html image_path="assets/images/cosi-sci-fest.jpg" title="Experimenting with Probability" description="Activity created as part of the 2021 COSI Science Festival." %}
-<p></p>
+<br>
 {% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Elevate Your Data Exploration" description="Partner event panel with AWS, Slalom, and WIBD." %}
 
 <br>
