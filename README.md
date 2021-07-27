@@ -9,7 +9,8 @@ Outside of work, I'm an active member of my local and larger tech communities.
 As the Director of Operations of Women in Analytics, a global community that promotes visibility to women making an impact in the analytics space, my primary focuses lie in marketing, strategy, and community growth. I've has launched multiple initiatives including the Ambassador Program, Women to Watch, and merchandise while expanding numerous others.
 </p>
 
-![image](assets/images/LB.png){: style="float: left; width=1em;"}
+{% include module.html image_path="assets/images/LB.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
+
 
 Some text.
 
