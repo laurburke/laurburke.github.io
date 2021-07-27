@@ -123,6 +123,7 @@ incremental: false
 include:
   - .htaccess
   - _pages
+  - _sass
 
 
 #formatting post
