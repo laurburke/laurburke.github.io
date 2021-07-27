@@ -18,6 +18,8 @@ Get in touch via email or any of the social media channels linked below.
 
 
 <img style="float: right;" src="LB.png">
+<img align="right" src="assets/images/LB.png">
+
 fff
 
 <h5 style="font-size:20px;">
