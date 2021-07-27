@@ -18,56 +18,14 @@ Get in touch via email or any of the social media channels linked below.
 </p>
 
 
-<div class="wrapper">
-    <div class="box">
-        <div class="images">
-            <div class="image">
-                <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
-            </div>
-            <div class="image">
-                <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
-            </div>
-            <div class="image">
-                <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
-            </div>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-6">
+            <Image scr="LB.png">
+            <Image scr="">
+            <Image scr="">
+        </div>
+        <div class="col-xs-6">text</div>
         </div>
     </div>
-  <div class="box"></div>
 </div>
-
-<style>
-.wrapper {
-    display: grid;
-    grid-template-columns: 50vw 50vw;
-    grid-gap: 0;
-}
-
-.box {
-    border: 1px solid;
-}
-
-.box+.box {
-    border-left: 0;
-}
-
-.images {
-    display: flex;
-    flex-direction: column;
-    flex-shrink: 0;
-}
-
-body {
-    margin: 0;
-}
-
-.image {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    display: flex;
-    justify-content: center
-}
-
-img {
-    border: 1px solid;
-}
-</style>
