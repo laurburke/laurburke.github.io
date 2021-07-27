@@ -12,7 +12,9 @@ Outside of work, I'm an active member of my local and larger tech communities. A
 Community Involvement
 </h4>
 <p style="font-size:16px;">
-  I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. <br>
+  I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. 
+</p>
+<p style="font-size:16px;">
   Here's a few of the organizations I am currently and have previously been involved with over the years. <br>
   <a href="https://techcorps.org/">TECH CORPS</a>: description <br>
   <a href="https://cosi.org/">Center of Science & Industry (COSI)</a>: description <br>
