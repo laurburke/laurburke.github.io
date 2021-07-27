@@ -19,10 +19,7 @@ Get in touch via email or any of the social media channels linked below.
 
 
 
-<div class='iconcontainer first'>
-    <img class='homeicons1' src="http://localyz.com/wp-content/uploads/2014/09/local-seo-reviews-icon.png">
-    <p>I want this under first image</p>
-  </div><div class='iconcontainer second'>
-  <img class='homeicons1' src="http://www.pd4pic.com/images800_/flat-keyboard-theme-typing-icon-types.png">
-  <p>I want this under second image</p>
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
 </div>
