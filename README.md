@@ -14,7 +14,6 @@ As the Director of Operations of Women in Analytics, a global community that pro
 Community Involvement
 </h4>
 <p style="font-size:16px;">
-[TECH CORPS](https://techcorps.org/)
 <a href="https://techcorps.org/">TECH CORPS</a>
 </p>
 
