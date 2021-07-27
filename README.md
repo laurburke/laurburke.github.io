@@ -16,7 +16,8 @@ Community Involvement
   I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. 
   
   Here's a few of the organizations I am currently and have previously been involved with over the years.
-<a href="https://techcorps.org/">TECH CORPS</a> fjdks;jansf
+</br>
+  <a href="https://techcorps.org/">TECH CORPS</a> fjdks;jansf
 </p>
 
 <h4 style="font-size:20px;">
