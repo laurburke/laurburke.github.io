@@ -1,6 +1,6 @@
-<h2 style="font-size:20px;">
+<h3 style="font-size:24px;">
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems.
-</h2>
+</h3>
 <p style="font-size:16px;">
 Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. </p>
 
@@ -34,7 +34,7 @@ Speaking
 <br>
 {% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Elevate Your Data Exploration" description="Partner event panel with AWS, Slalom, and WIBD." %}
 
-<br>
+<br> <br>
 
 <h4 style="font-size:20px;">
 Let's Connect!
