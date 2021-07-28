@@ -38,9 +38,9 @@ Speaking
   </tr>
   
   <tr style="border:none;">
+     <td style="border: none;font-size:16px;"><b>The Human Connection of Technology</b> <br> Panel discussion at 2020 Disruption Now Summit. This session focuses on the ethics of implementing AI solutions and new algorithms and their resulting risks and impact on communities.</td>
     <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/dnsummit.png"></td>
-    <td style="border: none;font-size:16px;"><b>The Human Connection of Technology</b> <br> Panel discussion at 2020 Disruption Now Summit. This session focuses on the ethics of implementing AI solutions and new algorithms and their resulting risks and impact on communities.</td>
-  </tr>
+   </tr>
   
   <tr style="border:none;">
     <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/bi-more-to-tech.png"></td>
@@ -48,8 +48,8 @@ Speaking
   </tr>
   
   <tr style="border:none;">
-    <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/cosi-sci-fest.jpg"></td>
     <td style="border:none;font-size:16px;"><b>Experimenting with Probability</b><br> Hands-on activity involving probability developed as part of the 2021 COSI Science Festival.</td>
+    <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/cosi-sci-fest.jpg"></td>
   </tr>
   
   <tr style="border:none;">
