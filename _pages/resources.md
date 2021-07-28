@@ -1,16 +1,21 @@
 ---
-title:  Resources
+#title:  Resources
 layout: single
 permalink: /resources/
 author_profile: true
 comments: false
 ---
 
-<h3 style="font-size:24px;">
+<h2 style="font-size:24px;">
+   Resources
+</h2>
+
+
+<h3 style="font-size:20px;">
    STEM Education
 </h3>
 
-<h4 style="font-size:24px;">
+<h4 style="font-size:18px;">
    Data Specifc
 </h4>
 <p style="font-size:16px;">
@@ -19,7 +24,7 @@ comments: false
 </ul>
 </p>
 
-<h4 style="font-size:24px;">
+<h4 style="font-size:20px;">
    Tech
 </h4>
 <p style="font-size:16px;">
@@ -31,14 +36,14 @@ comments: false
 </ul>
 </p>
 
-<h3 style="font-size:24px;">
+<h3 style="font-size:20px;">
   Podcasts
 </h3>
 
-<h3 style="font-size:24px;">
+<h3 style="font-size:20px;">
   Blogs
 </h3>
 
-<h3 style="font-size:24px;">
+<h3 style="font-size:20px;">
   Slacks
 </h3>
