@@ -18,8 +18,8 @@ Community Involvement
   Here's a few of the organizations I am currently and have previously been involved with over the years. <br>
   <a href="https://techcorps.org/"  style="text-decoration: none; color:#27b1c9">TECH CORPS</a>: description <br>
   <a href="https://cosi.org/"  style="text-decoration: none; color:#27b1c9">Center of Science & Industry (COSI)</a>: description <br>
-   <a href="https://cosi.org/"  style="text-decoration: none; color:#27b1c9">Center of Science & Industry (COSI)</a>: description <br>
-   <a href="https://cosi.org/"  style="text-decoration: none; color:#27b1c9">Center of Science & Industry (COSI)</a>: description <br>
+   <a href="https://cosi.org/"  style="text-decoration: none; color:#0aaac5">Center of Science & Industry (COSI)</a>: description <br>
+   <a href="https://cosi.org/"  style="text-decoration: none; color:#0aaac5">Center of Science & Industry (COSI)</a>: description <br>
 </p>
 
 
