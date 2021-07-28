@@ -6,14 +6,27 @@ author_profile: true
 comments: false
 ---
 
-<h3 style:
+<h3 style="font-size:24px;">
    STEM Education
 </h3>
 
-Data Specific
+<h4 style="font-size:24px;">
+   Data Specifc
+</h4>
+<p style="font-size:16px;">
+<ul>
+  <li>girls+data</li>
+</ul>
+</p>
 
-TECH CORPS
-PAST Foundation
-OH/IO
-NCWIT
-girls+data
+<h4 style="font-size:24px;">
+   Tech
+</h4>
+<p style="font-size:16px;">
+<ul>
+  <li>TECH CORPS</li>
+   <li>PAST Foundation</li>
+   <li>NCWIT</li>
+   <li>OH/IO</li>
+</ul>
+</p>
