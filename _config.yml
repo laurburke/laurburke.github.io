@@ -70,9 +70,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/lauren-e-burke"
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: mailto:laurenemilyburke17@gmail.com
 
 
 font:         "'Noto Sans', Helvetica, Arial, sans-serif"
