@@ -6,7 +6,6 @@ author_profile: true
 comments: false
 ---
 
-Get in Touch
-
-laurenemilyburke17@gmail.com
+Let's Connect!
+Get in touch via email or any of the social media channels linked below.
 
