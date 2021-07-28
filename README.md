@@ -31,6 +31,7 @@ Speaking
 </h4>
 
 <html>
+  <style>
   table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
@@ -66,6 +67,7 @@ Speaking
       <td><b>Girls Who Lead Summit</b><br>An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit.</td>
   </tr>
 </table>
+    </style>
 </html>
 
 
