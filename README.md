@@ -5,7 +5,8 @@
 <div style="line-height:10px;"><br></div>
 
 <p style="font-size:16px;">
-Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. </p>
+Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. 
+</p>
 
 <p style="font-size:16px;">
 Outside of work, I'm an active member of my local and larger tech communities. As the Director of Operations of <a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>, a global community that promotes visibility to women making an impact in the analytics space, my primary focuses lie in marketing, strategy, and community growth. Since joining the team, we have launched multiple initiatives including the Ambassador Program, Women to Watch, Membership, and merchandise while expanding numerous others.
@@ -14,17 +15,16 @@ Outside of work, I'm an active member of my local and larger tech communities. A
 <h4 style="font-size:20px;">
 Community Involvement
 </h4>
-<p style="font-size:16px;">
-  I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. 
-</p>
-<p style="font-size:16px;">
-  Here's a few of the organizations that I am currently or have previously been involved with over the years. </p>
+
+<p style="font-size:16px;"> I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. </p>
+<p style="font-size:16px;"> Here's a few of the organizations that I am currently or have previously been involved with over the years. </p>
   
 <p style="font-size:16px;">
-  <a href="https://techcorps.org/"  style="text-decoration: none; color:#039fb9">TECH CORPS</a>: A national nonprofit headquartered in Columbus. I have been involved for a number of years as a volunteer, Career Corps speaker, and hackathon judge/mentor. In 2021, I joined... <br>
-  <a href="https://cosi.org/"  style="text-decoration: none; color:#039fb9">Center of Science & Industry (COSI)</a>: A science center in Columbus that for two years has been voted the Best Science Museum in the nation. Since May 2018, I have served on the Kinetic Emerging Leaders Board and last year was elected as Vice Chair. <br>
+  <ul style="font-size:16px;">
+    <li style="font-size:16px;"><a href="https://techcorps.org/" style="text-decoration: none; color:#039fb9">TECH CORPS</a>: A national nonprofit headquartered in Columbus. I have been involved for a number of years as a volunteer, Career Corps speaker, and hackathon judge/mentor. In 2021, I joined...</li>
+    <li style="font-size:16px;"><a href="https://cosi.org/"  style="text-decoration: none; color:#039fb9">Center of Science & Industry (COSI)</a>: A science center in Columbus that for two years has been voted the Best Science Museum in the nation. Since May 2018, I have served on the Kinetic Emerging Leaders Board and last year was elected as Vice Chair.</li>
+  </ul>
 </p>
-
 
 <h4 style="font-size:20px;">
 Speaking
