@@ -53,7 +53,7 @@ Let's Connect!
 
 <table style="width:100%">
   <tr>
-    <td><img src="assets/images/LB.png" alt="Flowers in Chania"></td>
+    <td style="width:20%"><img src="assets/images/LB.png" alt="Flowers in Chania"></td>
     <td>Smith</td>
     <td>50</td>
   </tr>
