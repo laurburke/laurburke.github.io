@@ -53,11 +53,19 @@ Let's Connect!
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%"><img src="assets/images/LB.png" alt="Flowers in Chania"></td>
-    <td><b>Personal Branding in Analytics</b><br>Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career.</td>
+    <td style="width:20%">
+      <img src="assets/images/personal-branding-in-analytics.png">
+    </td>
+    <td>
+      <b>Personal Branding in Analytics</b><br>Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career.
+    </td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td style="width:20%">
+      <img src="assets/images/dnsummit.png">
+    </td>
+    <td>
+      <b>The Human Connection of Technology</b> <br> Panel discussion at 2020 Disruption Now Summit. This session focuses on the ethics of implementing AI solutions and new algorithms and their resulting risks and impact on communities.
+    </td>
   </tr>
 </table>
