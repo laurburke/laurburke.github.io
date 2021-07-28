@@ -22,6 +22,7 @@ Community Involvement
   <ul style="font-size:16px;">
     <li style="font-size:16px;"><a href="https://techcorps.org/" style="text-decoration: none; color:#039fb9">TECH CORPS</a>: A national nonprofit headquartered in Columbus. I have been involved for a number of years as a volunteer, Career Corps speaker, and hackathon judge/mentor. In 2021, I joined...</li>
     <li style="font-size:16px;"><a href="https://cosi.org/"  style="text-decoration: none; color:#039fb9">Center of Science & Industry (COSI)</a>: A science center in Columbus that for two years has been voted the Best Science Museum in the nation. Since May 2018, I have served on the Kinetic Emerging Leaders Board and last year was elected as Vice Chair.</li>
+    <li style="font-size:16px;"><a href="https://cosi.org/"  style="text-decoration: none; color:#039fb9">Ohio Dept of Education, Data Science Foundations Working Group - Industry Advisor</a>: A science center in Columbus that for two years has been voted the Best Science Museum in the nation. Since May 2018, I have served on the Kinetic Emerging Leaders Board and last year was elected as Vice Chair.</li>
   </ul>
 </p>
 
