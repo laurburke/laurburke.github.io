@@ -36,7 +36,7 @@ Speaking
 <br>
 {% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Elevate Your Data Exploration" description="Partner event panel with AWS, Slalom, Women in Big Data, and WIA." %}
 <br>
-{% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Girls Who Lead Summit" description="An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit." %}
+{% include module.html image_path="assets/images/girls-who-lead.jpg" title="Girls Who Lead Summit" description="An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit." %}
 
 
 <br> <br>
@@ -45,5 +45,5 @@ Speaking
 Let's Connect!
 </h4>
 <p style="font-size:16px;">
-  Get in touch via <a href="mailto:laurenemilyburke17@gmail.com">email</a> or any of the social media channels linked below.
+  Get in touch via <a href="mailto:laurenemilyburke17@gmail.com" style="text-decoration: none; color:#039fb9">email</a> or any of the social media channels linked below.
 </p>
