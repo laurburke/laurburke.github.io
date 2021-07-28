@@ -36,7 +36,7 @@ Speaking
 <br>
 {% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Elevate Your Data Exploration" description="Partner event panel with AWS, Slalom, Women in Big Data, and WIA." %}
 <br>
-{% include module.html image_path="assets/images/girls-who-lead.jpg" title="Girls Who Lead Summit" description="An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit." %}
+{% include module.html image_path="assets/images/girls-who-lead.png" title="Girls Who Lead Summit" description="An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit." %}
 
 
 <br> <br>
