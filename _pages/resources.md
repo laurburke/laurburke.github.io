@@ -23,11 +23,11 @@ comments: false
    Tech
 </h4>
 <p style="font-size:16px;">
-<ul>
-  <li>TECH CORPS</li>
-   <li>PAST Foundation</li>
-   <li>NCWIT</li>
-   <li>OH/IO</li>
+<ul style="font-size:16px;">
+  <li style="font-size:16px;">TECH CORPS</li>
+   <li style="font-size:16px;">PAST Foundation</li>
+   <li style="font-size:16px;">NCWIT</li>
+   <li style="font-size:16px;">OH/IO</li>
 </ul>
 </p>
 
