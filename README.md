@@ -19,7 +19,7 @@ Community Involvement
 </p>
 <p style="font-size:16px;">
   Here's a few of the organizations that I am currently or have previously been involved with over the years.
-  <div style="line-height:0.2;">  <br> </div>
+  <br style="line-height:0.2;">
   <a href="https://techcorps.org/"  style="text-decoration: none; color:#039fb9">TECH CORPS</a>: A national nonprofit headquartered in Columbus. I have been involved for a number of years as a volunteer, Career Corps speaker, and hackathon judge/mentor. In 2021, I joined... <br>
   <a href="https://cosi.org/"  style="text-decoration: none; color:#039fb9">Center of Science & Industry (COSI)</a>: A science center in Columbus that for two years has been voted the Best Science Museum in the nation. Since May 2018, I have served on the Kinetic Emerging Leaders Board and last year was elected as Vice Chair. <br>
 </p>
