@@ -1,10 +1,14 @@
 ---
-title:  "Contact"
+#title:  "Contact"
 layout: single
 permalink: /contact/
 author_profile: true
 comments: false
 ---
+
+<h2 style="font-size:24px;">
+Contact
+</h2>
 
 <h4 style="font-size:20px;">
 Let's Connect!
