@@ -7,8 +7,7 @@ Currently in the healthcare industry, I recently transitioned into product after
 <p style="font-size:16px;">
 Outside of work, I'm an active member of my local and larger tech communities. 
   <br>
-As the Director of Operations of <a href="https://womeninanalytics.com" style="text-decoration: none; color:#1195ab">Women in Analytics</a>, <br>
-  <a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>,
+As the Director of Operations of <a href="https://womeninanalytics.com" style="text-decoration: none; color:#1195ab">Women in Analytics</a>, <a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>,
   
   a global community that promotes visibility to women making an impact in the analytics space, my primary focuses lie in marketing, strategy, and community growth. Since joining the team, we have launched multiple initiatives including the Ambassador Program, Women to Watch, Membership, and merchandise while expanding numerous others.
 </p>
