@@ -29,7 +29,7 @@ Community Involvement
 <h4 style="font-size:20px;">
 Speaking
 </h4>
-{% include module.html image_path="assets/images/personal-branding-in-analytics.png" title="Personal Branding in Analytics" description="Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career." %}
+<!---{% include module.html image_path="assets/images/personal-branding-in-analytics.png" title="Personal Branding in Analytics" description="Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career." %}
 <br>
 {% include module.html image_path="assets/images/dnsummit.png" title="The Human Connection of Technology" description="Panel discussion at 2020 Disruption Now Summit. This session focuses on the ethics of implementing AI solutions and new algorithms and their resulting risks and impact on communities. " %}
 <br>
@@ -40,6 +40,38 @@ Speaking
 {% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Elevate Your Data Exploration" description="Partner event panel with AWS, Slalom, Women in Big Data, and WIA." %}
 <br>
 {% include module.html image_path="assets/images/girls-who-lead_censored.jpg" title="Girls Who Lead Summit" description="An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit." %}
+--->
+<table style="width:100%">
+  <tr>
+    <td style="width:20%"><img src="assets/images/personal-branding-in-analytics.png"></td>
+    <td><b>Personal Branding in Analytics</b><br>Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career.</td>
+  </tr>
+  
+  <tr>
+    <td style="width:20%"><img src="assets/images/dnsummit.png"></td>
+    <td><b>The Human Connection of Technology</b> <br> Panel discussion at 2020 Disruption Now Summit. This session focuses on the ethics of implementing AI solutions and new algorithms and their resulting risks and impact on communities.</td>
+  </tr>
+  
+  <tr>
+    <td style="width:20%"><img src="assets/images/bi-more-to-tech.png"></td>
+    <td><b>More to Tech than Coding: Engaging Young Learners on the Data Side</b><br> Part of the Bytes & Insights webinar series. This discussion focuses on the importance of introducing and engaging young learners around the many career paths in data.</td>
+  </tr>
+  
+  <tr>
+    <td style="width:20%"><img src="assets/images/cosi-sci-fest.jpg"></td>
+    <td><b>Experimenting with Probability</b><br> Hands-on activity involving probability developed as part of the 2021 COSI Science Festival.</td>
+  </tr>
+  
+  <tr>
+    <td style="width:20%"><img src="assets/images/elevate-your-data-exploration.jpg"></td>
+    <td><b>Elevate Your Data Exploration</b><br> Partner event panel with AWS, Slalom, Women in Big Data, and WIA.</td>
+  </tr>
+  
+  <tr>
+    <td style="width:20%"><img src="assets/images/girls-who-lead_censored.jpg"></td>
+      <td><b>Girls Who Lead Summit</b><br>An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit.</td>
+  </tr>
+</table>
 
 
 <br> <br>
@@ -50,22 +82,3 @@ Let's Connect!
 <p style="font-size:16px;">
   Get in touch via <a href="mailto:laurenemilyburke17@gmail.com" style="text-decoration: none; color:#039fb9">email</a> or any of the social media channels linked below.
 </p>
-
-<table style="width:100%">
-  <tr>
-    <td style="width:20%">
-      <img src="assets/images/personal-branding-in-analytics.png">
-    </td>
-    <td>
-      <b>Personal Branding in Analytics</b><br>Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career.
-    </td>
-  </tr>
-  <tr>
-    <td style="width:10%">
-      <img src="assets/images/dnsummit.png">
-    </td>
-    <td>
-      <b>The Human Connection of Technology</b> <br> Panel discussion at 2020 Disruption Now Summit. This session focuses on the ethics of implementing AI solutions and new algorithms and their resulting risks and impact on communities.
-    </td>
-  </tr>
-</table>
