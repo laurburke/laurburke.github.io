@@ -34,7 +34,7 @@ Speaking
 <table style="width:100%; border:none;" cellspacing="10" >
   <tr style="border:none;">
     <td style="border: none;font-size:16px;"><b>Personal Branding in Analytics</b><br>Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career.</td>
-    <td style="width:30%;border:none;font-size:16px;"><img src="assets/images/personal-branding-in-analytics.png"></td
+    <td style="width:30%;border:none;font-size:16px;"><img src="assets/images/personal-branding-in-analytics.png"></td>
   </tr>
   
   <tr style="border:none;">
