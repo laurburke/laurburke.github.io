@@ -1,6 +1,10 @@
 <h3 style="font-size:24px;">
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems.
 </h3>
+<p style="line-height:1em;">
+  <br>
+</p>
+
 <p style="font-size:16px;">
 Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. </p>
 

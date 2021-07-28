@@ -115,7 +115,11 @@
           Lauren Burke
           
         </a>
-        <ul class="visible-links"></ul>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/resources">Resources</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contact">Contact</a>
+            </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
@@ -328,10 +332,6 @@
       
         
           <li><a href="https://linkedin.com/in/lauren-e-burke" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
-        
-      
-        
-          <li><a href="mailto:laurenemilyburke17@gmail.com" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
         
       
     
