@@ -33,33 +33,33 @@ Speaking
 
 <table style="width:100%; border:none;" cellspacing="10" >
   <tr style="border:none;">
-    <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/personal-branding-in-analytics.png"></td>
     <td style="border: none;font-size:16px;"><b>Personal Branding in Analytics</b><br>Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career.</td>
+    <td style="width:30%;border:none;font-size:16px;"><img src="assets/images/personal-branding-in-analytics.png"></td
   </tr>
   
   <tr style="border:none;">
      <td style="border: none;font-size:16px;"><b>The Human Connection of Technology</b> <br> Panel discussion at 2020 Disruption Now Summit. This session focuses on the ethics of implementing AI solutions and new algorithms and their resulting risks and impact on communities.</td>
-    <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/dnsummit.png"></td>
+    <td style="width:30%;border:none;font-size:16px;"><img src="assets/images/dnsummit.png"></td>
    </tr>
   
   <tr style="border:none;">
-    <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/bi-more-to-tech.png"></td>
     <td style="border: none;font-size:16px;"><b>More to Tech than Coding: Engaging Young Learners on the Data Side</b><br> Part of the Bytes & Insights webinar series. This discussion focuses on the importance of introducing and engaging young learners around the many career paths in data.</td>
+    <td style="width:30%;border:none;font-size:16px;"><img src="assets/images/bi-more-to-tech.png"></td>
   </tr>
   
   <tr style="border:none;">
     <td style="border:none;font-size:16px;"><b>Experimenting with Probability</b><br> Hands-on activity involving probability developed as part of the 2021 COSI Science Festival.</td>
-    <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/cosi-sci-fest.jpg"></td>
+    <td style="width:30%;border:none;font-size:16px;"><img src="assets/images/cosi-sci-fest.jpg"></td>
   </tr>
   
   <tr style="border:none;">
-    <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/elevate-your-data-exploration.jpg"></td>
     <td style="border:none;font-size:16px;"><b>Elevate Your Data Exploration</b><br> Partner event panel with AWS, Slalom, Women in Big Data, and WIA.</td>
+    <td style="width:30%;border:none;font-size:16px;"><img src="assets/images/elevate-your-data-exploration.jpg"></td>
   </tr>
   
   <tr style="border:none;">
-    <td style="width:35%;border:none;font-size:16px;"><img src="assets/images/girls-who-lead_censored.jpg"></td>
-      <td style="border:none;font-size:16px;"><b>Girls Who Lead Summit</b><br>An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit.</td>
+    <td style="border:none;font-size:16px;"><b>Girls Who Lead Summit</b><br>An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit.</td>
+    <td style="width:30%;border:none;font-size:16px;"><img src="assets/images/girls-who-lead_censored.jpg"></td>
   </tr>
 </table>
 
