@@ -2,7 +2,7 @@
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems.
 </h3>
 
- <br style="line-height:0.3;"></br>
+<div style="line-height:50;"><br></div>
 
 <p style="font-size:16px;">
 Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. </p>
@@ -18,8 +18,9 @@ Community Involvement
   I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. 
 </p>
 <p style="font-size:16px;">
-  Here's a few of the organizations that I am currently or have previously been involved with over the years.
-  <br style="line-height:0.2;"></br>
+  Here's a few of the organizations that I am currently or have previously been involved with over the years. </p>
+  
+  <p style="font-size:16px;">
   <a href="https://techcorps.org/"  style="text-decoration: none; color:#039fb9">TECH CORPS</a>: A national nonprofit headquartered in Columbus. I have been involved for a number of years as a volunteer, Career Corps speaker, and hackathon judge/mentor. In 2021, I joined... <br>
   <a href="https://cosi.org/"  style="text-decoration: none; color:#039fb9">Center of Science & Industry (COSI)</a>: A science center in Columbus that for two years has been voted the Best Science Museum in the nation. Since May 2018, I have served on the Kinetic Emerging Leaders Board and last year was elected as Vice Chair. <br>
 </p>
