@@ -2,7 +2,7 @@
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems.
 </h3>
 
-<div style="line-height:10px;"><br></div>
+<div style="line-height:20px;"><br></div>
 
 <p style="font-size:16px;">
 Currently in the healthcare industry, I recently transitioned into product after spending some time implementing forecasting solutions to support new and renewal business opportunities. Previously, I was in the retail space and developed solutions across several areas including supply chain, inventory management, and enterprise business. 
