@@ -16,7 +16,7 @@ Outside of work, I'm an active member of my local and larger tech communities. A
 Community Involvement
 </h4>
 
-<p style="font-size:16px;"> I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. Here's a few of the organizations that I am currently or have previously been involved with over the years. </p>
+<p style="font-size:16px;"> I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. Here are a few of the organizations that I am currently or have previously been involved with over the years. </p>
   
 <p style="font-size:16px;">
   <ul style="font-size:16px;">
