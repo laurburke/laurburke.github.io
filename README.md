@@ -21,8 +21,8 @@ Community Involvement
 <p style="font-size:16px;">
   <ul style="font-size:16px;">
     <li style="font-size:16px;"><a href="https://techcorps.org/" style="text-decoration: none; color:#039fb9">TECH CORPS</a>: A national nonprofit headquartered in Columbus. I have been involved for a number of years as a volunteer, Career Corps speaker, and hackathon judge/mentor. In 2021, I joined...</li>
-    <li style="font-size:16px;"><a href="https://cosi.org/"  style="text-decoration: none; color:#039fb9">COSI</a>: The Center of Science & Industry is a science center in Columbus that for the past two years has been voted the Best Science Museum in the nation. Since May 2018, I have served on the Kinetic Emerging Leaders Board and last year was elected as Vice Chair.</li>
-    <li style="font-size:16px;"><a href="https://cosi.org/"  style="text-decoration: none; color:#039fb9">Ohio Dept of Education, Data Science Foundations Working Group - Industry Advisor</a>: A science center in Columbus that for two years has been voted the Best Science Museum in the nation. Since May 2018, I have served on the Kinetic Emerging Leaders Board and last year was elected as Vice Chair.</li>
+    <li style="font-size:16px;"><a href="https://cosi.org/"  style="text-decoration: none; color:#039fb9">COSI</a>: For the past two years, Columbus' Center of Science & Industry has been voted the Best Science Museum in the nation. Since May 2018, I have served on the Kinetic Emerging Leaders Board and last year was elected as Vice Chair.</li>
+    <li style="font-size:16px;"><a href="http://education.ohio.gov/Topics/Learning-in-Ohio/Mathematics/Resources-for-Mathematics/Math-Pathways/Data-Science-Foundations"  style="text-decoration: none; color:#039fb9">Ohio Dept of Education, Data Science Foundations Work Group</a>: The ODOE Department of Education partnered with the Ohio Department of Higher Education and Ohio Math Initiative to develop courses that satisfy the credit requirement for Algebra 2. I served as an Industry Advisor to this workgroup.</li>
   </ul>
 </p>
 
