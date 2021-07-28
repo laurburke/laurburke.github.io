@@ -41,7 +41,7 @@ Speaking
 <br>
 {% include module.html image_path="assets/images/girls-who-lead_censored.jpg" title="Girls Who Lead Summit" description="An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit." %}
 --->
-<table style="width:100%;bordercolor = blue;">
+<table style="width:100%" cellspacing="10">
   <tr>
     <td style="width:20%"><img src="assets/images/personal-branding-in-analytics.png"></td>
     <td><b>Personal Branding in Analytics</b><br>Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career.</td>
