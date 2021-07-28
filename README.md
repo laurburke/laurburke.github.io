@@ -32,9 +32,12 @@ Speaking
 <br>
 {% include module.html image_path="assets/images/bi-more-to-tech.png" title="More to Tech than Coding: Engaging Young Learners on the Data Side" description="Part of the Bytes & Insights webinar series. This discussion focuses on the importance of introducing and engaging young learners around the many career paths in data." %}
 <br>
-{% include module.html image_path="assets/images/cosi-sci-fest.jpg" title="Experimenting with Probability" description="Hands-on activity involving probability developed as part of the 2021 COSI Science Festival." %}
+{% include module.html image_path="assets/images/cosi-sci-fest.jpg" title="Experimenting with Probability" description="Hands-on activity involving probability developed as part of the 2021 COSI Science Festival. " %}
 <br>
 {% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Elevate Your Data Exploration" description="Partner event panel with AWS, Slalom, Women in Big Data, and WIA." %}
+<br>
+{% include module.html image_path="assets/images/elevate-your-data-exploration.jpg" title="Girls Who Lead Summit" description="An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit." %}
+
 
 <br> <br>
 
