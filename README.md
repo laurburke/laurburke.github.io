@@ -61,7 +61,7 @@ Let's Connect!
     </td>
   </tr>
   <tr>
-    <td style="width:20%">
+    <td style="width:10%">
       <img src="assets/images/dnsummit.png">
     </td>
     <td>
