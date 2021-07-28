@@ -50,3 +50,21 @@ Let's Connect!
 <p style="font-size:16px;">
   Get in touch via <a href="mailto:laurenemilyburke17@gmail.com" style="text-decoration: none; color:#039fb9">email</a> or any of the social media channels linked below.
 </p>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
