@@ -1,7 +1,7 @@
 <h3 style="font-size:24px;">
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems.
 </h3>
-<p style="line-height:150%;">
+<p style="line-height:1em;">
   <br>
 </p>
 
