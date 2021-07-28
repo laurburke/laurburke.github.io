@@ -54,12 +54,10 @@ Let's Connect!
 <table style="width:100%">
   <tr>
     <td style="width:20%"><img src="assets/images/LB.png" alt="Flowers in Chania"></td>
-    <td>Smith</td>
-    <td>50</td>
+    <td><b>Personal Branding in Analytics</b><br>Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career.</td>
   </tr>
   <tr>
     <td>Eve</td>
     <td>Jackson</td>
-    <td>94</td>
   </tr>
 </table>
