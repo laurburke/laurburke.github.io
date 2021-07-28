@@ -30,19 +30,14 @@ Community Involvement
 Speaking
 </h4>
 
-<html>
-  <style>
-  table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
- }
+
 <table style="width:100%" cellspacing="10" bordercolor>
-  <tr>
+  <tr style="border: none;">
     <td style="width:20%"><img src="assets/images/personal-branding-in-analytics.png"></td>
     <td><b>Personal Branding in Analytics</b><br>Panel discussion with UC San Diego Rady School of Management's Analytics Program around networking effectively and positioning yourself for success in your analytics career.</td>
   </tr>
   
-  <tr>
+  <tr >
     <td style="width:25%"><img src="assets/images/dnsummit.png"></td>
     <td><b>The Human Connection of Technology</b> <br> Panel discussion at 2020 Disruption Now Summit. This session focuses on the ethics of implementing AI solutions and new algorithms and their resulting risks and impact on communities.</td>
   </tr>
@@ -67,8 +62,6 @@ Speaking
       <td><b>Girls Who Lead Summit</b><br>An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit.</td>
   </tr>
 </table>
-    </style>
-</html>
 
 
 <br> <br>
