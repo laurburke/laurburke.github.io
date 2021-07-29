@@ -10,7 +10,7 @@ comments: false
    Resources
 </h2>
 <p style="font-size:16px;">
-When I was first starting out in my professional career, I scoured the internet for hours looking for resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and various others. I've compiled this list of what I've found with the hope of it helping others along the way. <span style="color:#039fb9"> fkdljf </span>
+When I was first starting out in my professional career, I scoured the internet for hours looking for resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and various others. I've compiled this list of what I've found with the hope of it helping others along the way.
 </p>
 
 
@@ -36,7 +36,8 @@ When I was first starting out in my professional career, I scoured the internet 
 </h4>
 <p style="font-size:16px;">
    <ul>
-      <li style="font-size:16px;"><a href="https://girlsplusdata.org" style="text-decoration: none; color:#039fb9">girls+data</a>: (Ages: ~grades 5-8, Location: US-based Chapters & Virtual Portal) </li>
+      <li style="font-size:16px;"><a href="https://girlsplusdata.org" style="text-decoration: none; color:#039fb9">girls+data</a>: <span style="color:#566366"> (Ages: ~grades 5-8, Location: US-based Chapters & Virtual Portal)</span>
+          </li>
       <li style="font-size:16px;"><a href="https://ww2.amstat.org/education/datafest/" style="text-decoration: none; color:#039fb9">DataFest</a>: </li>
    </ul>
 </p>
