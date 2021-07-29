@@ -68,5 +68,5 @@ When I was first starting out in my professional career, I scoured the internet 
 </h3>
 
 <h3 style="font-size:18px;">
-  Slacks
+  Slack Groups
 </h3>
