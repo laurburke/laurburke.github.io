@@ -1,4 +1,4 @@
-<h3 style="font-size:24px;">
+<h3 style="font-size:24px;font-family:Open Sans;">
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems.
 </h3>
 
