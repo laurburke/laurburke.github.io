@@ -57,6 +57,11 @@ When I was first starting out in my professional career, I scoured the internet 
 <h3 style="font-size:18px;">
   Podcasts
 </h3>
+<p style="font-size:16px;">
+   <ul style="font-size:16px;">
+      <li style="font-size:16px;"><a href="http://lineardigressions.com/" style="text-decoration: none; color:#039fb9">Linear Digressions</a>: </li>
+   </ul>
+</p>
 
 <h3 style="font-size:18px;">
   Blogs
