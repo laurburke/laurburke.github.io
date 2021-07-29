@@ -36,7 +36,7 @@ When I was first starting out in my professional career, I scoured the internet 
 </h4>
 <p style="font-size:16px;">
    <ul>
-      <li style="font-size:16px;"><a href="https://girlsplusdata.org" style="text-decoration: none; color:#039fb9">girls+data</a>: </li>
+      <li style="font-size:16px;"><a href="https://girlsplusdata.org" style="text-decoration: none; color:#039fb9">girls+data</a>: (Ages: ~grades 5-8, Location: US-based Chapters & Virtual Portal) </li>
       <li style="font-size:16px;"><a href="https://ww2.amstat.org/education/datafest/" style="text-decoration: none; color:#039fb9">DataFest</a>: </li>
    </ul>
 </p>
