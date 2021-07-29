@@ -21,9 +21,9 @@ When I was first starting out in my professional career, I scoured the internet 
    <ul style="font-size:16px;">
       <li style="font-size:16px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>: </li>
       <li style="font-size:16px;"><a href="https://wimdls.org" style="text-decoration: none; color:#039fb9">WiMLDS</a>: Women in Machine Learning and Data Science, a global organization with chapters across the globe.</li>
-      <li style="font-size:16px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Pyladies</a>: </li>
-      <li style="font-size:16px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">R-Ladies</a>: </li>
-      <li style="font-size:16px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>: </li>
+      <li style="font-size:16px;"><a href="https://pyladies.com/" style="text-decoration: none; color:#039fb9">Pyladies</a>: </li>
+      <li style="font-size:16px;"><a href="https://rladies.org/" style="text-decoration: none; color:#039fb9">R-Ladies</a>: </li>
+      <li style="font-size:16px;"><a href="https://cwstat.org/" style="text-decoration: none; color:#039fb9">Caucus for Women in Statistics</a>: </li>
    </ul>
 </p>
 
@@ -36,7 +36,8 @@ When I was first starting out in my professional career, I scoured the internet 
 </h4>
 <p style="font-size:16px;">
    <ul>
-     <li>girls+data</li>
+      <li style="font-size:16px;"><a href="https://girlsplusdata.org" style="text-decoration: none; color:#039fb9">girls+data</a>: </li>
+      <li style="font-size:16px;"><a href="https://ww2.amstat.org/education/datafest/" style="text-decoration: none; color:#039fb9">DataFest</a>: </li>
    </ul>
 </p>
 
@@ -46,10 +47,10 @@ When I was first starting out in my professional career, I scoured the internet 
 
 <p style="font-size:16px;">
    <ul style="font-size:16px;">
-      <li style="font-size:16px;">TECH CORPS</li>
-      <li style="font-size:16px;">PAST Foundation</li>
-      <li style="font-size:16px;">NCWIT</li>
-      <li style="font-size:16px;">OH/IO</li>
+      <li style="font-size:16px;"><a href="https://techcorps.org" style="text-decoration: none; color:#039fb9">TECH CORPS</a>: </li>
+      <li style="font-size:16px;"><a href="https://www.pastfoundation.org/" style="text-decoration: none; color:#039fb9">The PAST Foundation</a>: </li>
+      <li style="font-size:16px;"><a href="https://ncwit.org/" style="text-decoration: none; color:#039fb9">NCWIT</a>: The National Center for Women & Information Technology</li>
+      <li style="font-size:16px;"><a href="https://hack.osu.edu/" style="text-decoration: none; color:#039fb9">OH/IO</a>: </li>
    </ul>
 </p>
 
