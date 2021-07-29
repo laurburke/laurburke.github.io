@@ -1,5 +1,5 @@
 <h3 style="font-size:24px;">
-  Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems.
+  Hi, I'm Lauren Burke. <br>As a Data Scientist, I find creative solutions to complex problems.
 </h3>
 
 <div style="line-height:20px;"><br></div>
