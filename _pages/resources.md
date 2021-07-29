@@ -10,7 +10,7 @@ comments: false
    Resources
 </h2>
 <p style="font-size:16px;">
-When I was first starting out in my professional career, I scoured the internet for hours looking for various resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and many more. I've compiled this list of what I've found with the hope of it helping others along the way. 
+When I was first starting out in my professional career, I scoured the internet for hours looking for resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and various others. I've compiled this list of what I've found with the hope of it helping others along the way. 
 </p>
 
 
