@@ -1,7 +1,12 @@
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
 /* system typefaces */
 $serif                        : Georgia, Times, serif !default;
-$sans-serif                   : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif                   : Open Sans, Times, sans-serif !default;
+//$sans-serif                   : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
+
 
 /* sans serif typefaces */
 $sans-serif-narrow            : $sans-serif !default;
