@@ -19,10 +19,11 @@ When I was first starting out in my professional career, I scoured the internet 
 </h3>
 <p style="font-size:16px;">
    <ul style="font-size:16px;">
-      <li style="font-size:16px;">Women in Analytics</li>
-      <li style="font-size:16px;">WIMLDS</li>
-      <li style="font-size:16px;">Pyladies</li>
-      <li style="font-size:16px;">R-Ladies</li>
+      <li style="font-size:16px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>: </li>
+      <li style="font-size:16px;"><a href="https://wimdls.org" style="text-decoration: none; color:#039fb9">WiMLDS</a>: Women in Machine Learning and Data Science, a global organization with chapters across the globe.</li>
+      <li style="font-size:16px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Pyladies</a>: </li>
+      <li style="font-size:16px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">R-Ladies</a>: </li>
+      <li style="font-size:16px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>: </li>
    </ul>
 </p>
 
