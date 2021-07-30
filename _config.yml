@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Lauren Burke 〜 Data Bender <img src="assets/images/LB.png" style="width: 20px; height: 20px;">"
+title: "Lauren Burke 〜 Data Bender"
 #title_separator: "〜"
 locale: "en-US"
 name: "Lauren Burke"
