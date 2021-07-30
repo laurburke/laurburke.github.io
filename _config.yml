@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Lauren Burke ⁓ 〜 Data Bender ༄"
-title_separator: "〜"
+title: "Lauren Burke 〜 Data Bender"
+#title_separator: "〜"
 locale: "en-US"
 name: "Lauren Burke"
 email: laurenemilyburke17@gmail.com
-description: temp description# 
+description: #temp description
 logo: assets/images/LB-round.png
 favicon: assets/images/LB-round.png
 baseurl: "" # the subpath of your site, e.g. /blog
