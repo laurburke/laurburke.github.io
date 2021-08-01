@@ -13,10 +13,10 @@ comments: false
 When I was first starting out in my professional career, I scoured the internet for hours looking for resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and various others. I've compiled this list of what I've found with the hope of it helping others along the way.
 </p>
 
+
 <h3 style="font-size:20px;">
    Women in Tech
 </h3>
-
 
 <h3 style="font-size:17px;">
    Organizations
