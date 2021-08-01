@@ -15,7 +15,7 @@ When I was first starting out in my professional career, I scoured the internet 
 
 <h2 style="font-size:20px;">
    Women in Tech
-</h3>
+</h2>
 
 <h3 style="font-size:17px;">
    Organizations
@@ -33,10 +33,11 @@ When I was first starting out in my professional career, I scoured the internet 
    Slack Groups
 </h3>
 
-# STEM EDUCATION
-<h3 style="font-size:20px;">
-   STEM Education Organizations
-</h3>
+
+
+<h2 style="font-size:20px;">
+   STEM Education
+</h2>
 
 <h4 style="font-size:17px;">
    Data Specifc
@@ -60,7 +61,12 @@ When I was first starting out in my professional career, I scoured the internet 
    </ul>
 </p>
 
-<h3 style="font-size:18px;">
+
+<h2 style="font-size:20px;">
+   Data Science & Analytics
+</h2>
+
+<h3 style="font-size:17px;">
   Podcasts
 </h3>
 <p style="font-size:15px;">
@@ -71,6 +77,6 @@ When I was first starting out in my professional career, I scoured the internet 
    </ul>
 </p>
 
-<h3 style="font-size:18px;">
+<h3 style="font-size:17px;">
   Blogs
 </h3>
