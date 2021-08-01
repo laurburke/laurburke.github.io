@@ -1,13 +1,8 @@
 main:
   - title: "Resources"
     url: /resources/
-    sublinks:
-      - title: "Data Science"
-        url: /data-science/
-      - title: "Other"
-        url: /other/
-  #     - title: Customer Support
-  #       url: /Support/
+  - title: "Data Science"
+    url: /data-science/
   - title: "Contact"
     url: /contact/
 
