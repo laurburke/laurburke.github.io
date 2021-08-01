@@ -13,9 +13,13 @@ comments: false
 When I was first starting out in my professional career, I scoured the internet for hours looking for resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and various others. I've compiled this list of what I've found with the hope of it helping others along the way.
 </p>
 
+<h3 style="font-size:20px;">
+   Women in Tech
+</h3>
 
-<h3 style="font-size:18px;">
-   Women in Tech Organizations
+
+<h3 style="font-size:17px;">
+   Organizations
 </h3>
 <p style="font-size:16px;">
    <ul style="font-size:16px;">
@@ -26,6 +30,7 @@ When I was first starting out in my professional career, I scoured the internet 
       <li style="font-size:16px;"><a href="https://cwstat.org/" style="text-decoration: none; color:#039fb9">Caucus for Women in Statistics</a>: </li>
    </ul>
 </p>
+
 
 <h3 style="font-size:18px;">
    STEM Education Organizations
