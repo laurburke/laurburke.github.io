@@ -1,8 +1,8 @@
 main:
-  - title: "Resources"
-    url: /resources/
-  - title: "Data Science"
-    url: /data-science/
+  #- title: "Resources"
+  #  url: /resources/
+  #- title: "Data Science"
+  #  url: /data-science/
   - title: "Contact"
     url: /contact/
 
