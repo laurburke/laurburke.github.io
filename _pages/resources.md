@@ -36,7 +36,7 @@ When I was first starting out in my professional career, I scoured the internet 
       <li style="font-size:15px;"><a href="https://pastfoundation.org/" style="text-decoration: none; color:#039fb9">The PAST Foundation</a>: </li>
       <li style="font-size:15px;"><a href="https://ncwit.org/" style="text-decoration: none; color:#039fb9">NCWIT</a>: The National Center for Women & Information Technology</li>
       <li style="font-size:15px;"><a href="https://girlsplusdata.org" style="text-decoration: none; color:#039fb9">girls+data</a>: <span style="color:#566366"> (Ages: ~grades 5-8, Location: US-based Chapters & Virtual Portal)</span></li>
-      <li style="font-size:15px;"><a href="https://hack.osu.edu/" style="text-decoration: none; color:#039fb9">OH/IO</a>: </li>
+      <li style="font-size:15px;"><a href="https://hack.osu.edu/" style="text-decoration: none; color:#039fb9">OHI/O</a>: </li>
       <li style="font-size:15px;"><a href="https://ww2.amstat.org/education/datafest/" style="text-decoration: none; color:#039fb9">DataFest</a>: </li>
 
    </ul>
@@ -45,9 +45,9 @@ When I was first starting out in my professional career, I scoured the internet 
 <h3 style="font-size:17px;">Ohio Opportunities</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="" style="text-decoration: none; color:#039fb9">Florence Nightingale Day</a>: </li>
-      <li style="font-size:15px;"><a href="" style="text-decoration: none; color:#039fb9">Florence Nightingale Day</a>: </li>
-
+      <li style="font-size:15px;"><a href="https://hack.osu.edu/" style="text-decoration: none; color:#039fb9">OHI/O</a>: A program through The Ohio State University that organizes a number of hackathon type events each year including Data I/O, Hack I/O, High School I/O, and more.</li>
+      <li style="font-size:15px;"><a href="" style="text-decoration: none; color:#039fb9">Florence Nightingale Day</a>: </li
+      <li style="font-size:15px;"><a href="https://cosiscifest.org/" style="text-decoration: none; color:#039fb9">COSI Science Festival</a>: The largest annual STEM event in Ohio that features hands-on activities, exhibits, and various events for all ages. </li
    </ul>
 </p>
 
