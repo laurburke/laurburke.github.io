@@ -39,6 +39,13 @@ When I was first starting out in my professional career, I scoured the internet 
    </ul>
 </p>
 
+<h3 style="font-size:17px;">Events</h3>
+<p style="font-size:15px;">
+   <ul style="font-size:15px;">
+      <li style="font-size:15px;"><a href="" style="text-decoration: none; color:#039fb9">Florence Nightingale Day</a>: </li>
+   </ul>
+</p>
+
 <h4 style="font-size:17px;">
    Data Specifc
 </h4>
