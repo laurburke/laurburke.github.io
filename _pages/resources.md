@@ -11,9 +11,9 @@ comments: false
 When I was first starting out in my professional career, I scoured the internet for hours looking for resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and various others. I've compiled this list of what I've found with the hope of it helping others along the way.
 </p>
 
-<h2 style="font-size:20px;">Women in Tech</h2>
+<h2 style="font-size:18px;">Women in Tech</h2>
 
-<h3 style="font-size:17px;">Organizations</h3>
+<h3 style="font-size:16px;">Organizations</h3>
 
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
@@ -25,11 +25,11 @@ When I was first starting out in my professional career, I scoured the internet 
    </ul>
 </p>
 
-<h3 style="font-size:17px;">Slack Groups</h3>
+<h3 style="font-size:16px;">Slack Groups</h3>
 
 
-<h2 style="font-size:20px;">STEM Education</h2>
-<h3 style="font-size:17px;">Organizations</h3>
+<h2 style="font-size:18px;">STEM Education</h2>
+<h3 style="font-size:16px;">Organizations</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
       <li style="font-size:15px;"><a href="https://techcorps.org" style="text-decoration: none; color:#039fb9">TECH CORPS</a>: </li>
@@ -42,7 +42,7 @@ When I was first starting out in my professional career, I scoured the internet 
    </ul>
 </p>
 
-<h3 style="font-size:17px;">Ohio Opportunities</h3>
+<h3 style="font-size:16px;">Ohio Opportunities</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
       <li style="font-size:15px;"><a href="https://hack.osu.edu/" style="text-decoration: none; color:#039fb9">OHI/O</a>: A program through The Ohio State University that organizes a number of hackathon type events each year including Data I/O, Hack I/O, High School I/O, and more.</li>
@@ -52,11 +52,11 @@ When I was first starting out in my professional career, I scoured the internet 
 </p>
 
 
-<h2 style="font-size:20px;">
+<h2 style="font-size:18px;">
    Data Science & Analytics
 </h2>
 
-<h3 style="font-size:17px;">
+<h3 style="font-size:16px;">
   Podcasts
 </h3>
 <p style="font-size:15px;">
