@@ -116,10 +116,6 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/resources/">Resources</a>
-            </li><li class="masthead__menu-item">
-              <a href="/data-science/">Data Science</a>
-            </li><li class="masthead__menu-item">
               <a href="/contact/">Contact</a>
             </li></ul>
         
