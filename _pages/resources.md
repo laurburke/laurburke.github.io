@@ -64,6 +64,8 @@ When I was first starting out in my professional career, I scoured the internet 
       <li style="font-size:15px;"><a href="http://lineardigressions.com/" style="text-decoration: none; color:#039fb9">Linear Digressions</a></li>
       <li style="font-size:15px;"><a href="https://twimlai.com/" style="text-decoration: none; color:#039fb9">This Week in Machine Learning & AI</a></li>
       <li style="font-size:15px;"><a href="https://analyticshour.io/" style="text-decoration: none; color:#039fb9">Analytics Power Hour</a></li>
+      <li style="font-size:15px;"><a href="http://partiallyderivative.com/" style="text-decoration: none; color:#039fb9">Partially Derivative</a></li>
+
    </ul>
 </p>
 
