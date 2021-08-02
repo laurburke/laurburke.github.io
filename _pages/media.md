@@ -16,6 +16,6 @@ comments: false
 </p>
 
 <p style="font-size:15px;">
-  <a href="https://denison.edu/academics/data-analytics/feature/132170" style="text-decoration: none; color:#039fb9">A Secret Data Set to Hack, Mine, & Model</a>
+  <a href="https://denison.edu/academics/data-analytics/feature/132170" style="text-decoration: none; color:#039fb9">A Secret Data Set to Hack, Mine, & Model</a> (Denison University DataFest)
 </p>
 
