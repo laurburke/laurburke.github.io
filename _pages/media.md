@@ -8,7 +8,7 @@ comments: false
 <h3 style="font-size:18px;">Mentions</h3>
 
 <p style="font-size:15px;">
-  <a href="https://techcorps.org/robotics/" style="text-decoration: none; color:#039fb9">Techie Camp Introduces Elementary Students to Robotics</a>
+  <a href="https://techcorps.org/robotics/" style="text-decoration: none; color:#039fb9">Techie Camp Introduces Elementary Students to Robotics</a> (TECH CORPS)
 </p>
 
 <p style="font-size:15px;">
