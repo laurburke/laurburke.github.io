@@ -15,4 +15,7 @@ comments: false
   <a href="https://www.1mwis.com/profiles/lauren-burke" style="text-decoration: none; color:#039fb9">Featured Profile, 1 Million Women in Stem</a>
 </p>
 
+<p style="font-size:15px;">
+  <a href="https://denison.edu/academics/data-analytics/feature/132170" style="text-decoration: none; color:#039fb9">A Secret Data Set to Hack, Mine, & Model</a>
+</p>
 
