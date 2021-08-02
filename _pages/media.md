@@ -12,7 +12,7 @@ comments: false
 </p>
 
 <p style="font-size:15px;">
-  <a href="https://www.1mwis.com/profiles/lauren-burke" style="text-decoration: none; color:#039fb9">Featured Profile, 1 Million Women in Stem</a>
+  <a href="https://www.1mwis.com/profiles/lauren-burke" style="text-decoration: none; color:#039fb9">Featured Profile</a> (1 Million Women in STEM)
 </p>
 
 <p style="font-size:15px;">
