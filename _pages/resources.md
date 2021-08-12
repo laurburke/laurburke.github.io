@@ -11,43 +11,33 @@ comments: false
 When I was first starting out in my professional career, I scoured the internet for hours looking for resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and various others. I've compiled this list of what I've found with the hope of it helping others along the way.
 </p>
 
-<h2 style="font-size:18px;">Women in Tech</h2>
-
-<h3 style="font-size:16px;">Organizations</h3>
-
+<h3 style="font-size:18px;">Organizations</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>: </li>
-      <li style="font-size:15px;"><a href="https://wimdls.org" style="text-decoration: none; color:#039fb9">WiMLDS</a>: Women in Machine Learning and Data Science, a global organization with chapters across the globe.</li>
-      <li style="font-size:15px;"><a href="https://pyladies.com/" style="text-decoration: none; color:#039fb9">Pyladies</a>: </li>
-      <li style="font-size:15px;"><a href="https://rladies.org/" style="text-decoration: none; color:#039fb9">R-Ladies</a>: </li>
-      <li style="font-size:15px;"><a href="https://cwstat.org/" style="text-decoration: none; color:#039fb9">Caucus for Women in Statistics</a>: </li>
+      <li style="font-size:15px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a> (Analytics/Data Science/ML/AI) <span style="font-weight:500;">Location</span>: Global, Features: Annual conference, membership program </li>
+      <li style="font-size:15px;"><a href="https://wimdls.org" style="text-decoration: none; color:#039fb9">Women in Machine Learning and Data Science (WiMLDS)</a> - Location: international, Features: chapter-based</li>
+      <li style="font-size:15px;"><a href="https://pyladies.com/" style="text-decoration: none; color:#039fb9">Pyladies</a> - Location: international, Features: chapter-based</li>
+      <li style="font-size:15px;"><a href="https://rladies.org/" style="text-decoration: none; color:#039fb9">R-Ladies</a> - Location: international, Features: chapter-based</li>
+      <li style="font-size:15px;"><a href="https://www.womeninbigdata.org/" style="text-decoration: none; color:#039fb9">Women in Big Data</a> - Location: international, Features: chapter-based</li>
+        <li style="font-size:15px;"><a href="https://womeninvoice.org/" style="text-decoration: none; color:#039fb9">Women in Voice</a> - Location: international, Features: chapter-based</li>
+       <li style="font-size:15px;"><a href="https://www.womenwhocode.com/" style="text-decoration: none; color:#039fb9">Women Who Code</a> - Location: international, Features: chapter-based</li>
+       <li style="font-size:15px;"><a href="https://witi.com/" style="text-decoration: none; color:#039fb9">Women in Technology International (WITI)</a> - Location: international, Features: chapter-based</li>
    </ul>
 </p>
 
-<h3 style="font-size:16px;">Slack Groups</h3>
-
-
-<h2 style="font-size:18px;">STEM Education</h2>
-<h3 style="font-size:16px;">Organizations</h3>
+<h3 style="font-size:16px;">Professional Associations</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="https://techcorps.org" style="text-decoration: none; color:#039fb9">TECH CORPS</a>: </li>
-      <li style="font-size:15px;"><a href="https://pastfoundation.org/" style="text-decoration: none; color:#039fb9">The PAST Foundation</a>: </li>
-      <li style="font-size:15px;"><a href="https://ncwit.org/" style="text-decoration: none; color:#039fb9">NCWIT</a>: The National Center for Women & Information Technology</li>
-      <li style="font-size:15px;"><a href="https://girlsplusdata.org" style="text-decoration: none; color:#039fb9">girls+data</a>: <span style="color:#566366"> (Ages: ~grades 5-8, Location: US-based Chapters & Virtual Portal)</span></li>
-      <li style="font-size:15px;"><a href="https://hack.osu.edu/" style="text-decoration: none; color:#039fb9">OHI/O</a>: </li>
-      <li style="font-size:15px;"><a href="https://ww2.amstat.org/education/datafest/" style="text-decoration: none; color:#039fb9">DataFest</a>: </li>
-
+      <li style="font-size:15px;"><a href="https://cwstat.org/" style="text-decoration: none; color:#039fb9">Caucus for Women in Statistics</a></li>
+      <li style="font-size:15px;"><a href="https://awm-math.org/" style="text-decoration: none; color:#039fb9">Association for Women in Mathematics</a></li>
    </ul>
 </p>
 
-<h3 style="font-size:16px;">Ohio Opportunities</h3>
+<h3 style="font-size:16px;">Professional Associations</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="https://hack.osu.edu/" style="text-decoration: none; color:#039fb9">OHI/O</a>: A program through The Ohio State University that organizes a number of hackathon type events each year including Data I/O, Hack I/O, High School I/O, and more.</li>
-      <li style="font-size:15px;"><a href="" style="text-decoration: none; color:#039fb9">Florence Nightingale Day</a>: </li
-      <li style="font-size:15px;"><a href="https://cosiscifest.org/" style="text-decoration: none; color:#039fb9">COSI Science Festival</a>: The largest annual STEM event in Ohio that features hands-on activities, exhibits, and various events for all ages. </li
+      <li style="font-size:15px;"><a href="https://www.dataumbrella.org/" style="text-decoration: none; color:#039fb9">Data Umbrella</a>: For under-represented persons in the fields of ML/DS/AI.</li>
+      <li style="font-size:15px;"><a href="https://www.diversifytech.co/" style="text-decoration: none; color:#039fb9">DiversifyTech</a></li>
    </ul>
 </p>
 
@@ -61,14 +51,20 @@ When I was first starting out in my professional career, I scoured the internet 
 </h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="http://lineardigressions.com/" style="text-decoration: none; color:#039fb9">Linear Digressions</a></li>
-      <li style="font-size:15px;"><a href="https://twimlai.com/" style="text-decoration: none; color:#039fb9">This Week in Machine Learning & AI</a></li>
-      <li style="font-size:15px;"><a href="https://analyticshour.io/" style="text-decoration: none; color:#039fb9">Analytics Power Hour</a></li>
-      <li style="font-size:15px;"><a href="http://partiallyderivative.com/" style="text-decoration: none; color:#039fb9">Partially Derivative</a></li>
-
-   </ul>
+      <li style="font-size:15px;"><a href="http://lineardigressions.com/" style="text-decoration: none; color:#039fb9">Linear Digressions</a>: Explores interesting and often unusual applications of machine learning and data science.</li>
+       <li style="font-size:15px;"><a href="https://nssdeviations.com/" style="text-decoration: none; color:#039fb9">Not So Standard Deviations</a>: The latest in data science and data analysis in academia and industry.</li>
+      <li style="font-size:15px;"><a href="https://twimlai.com/" style="text-decoration: none; color:#039fb9">This Week in Machine Learning & AI</a>: Brings together the top minds and ideas from the world of ML and AI.</li>
+      <li style="font-size:15px;"><a href="https://analyticshour.io/" style="text-decoration: none; color:#039fb9">Analytics Power Hour</a>: Digital analytics.</li>
+      <li style="font-size:15px;"><a href="http://partiallyderivative.com/" style="text-decoration: none; color:#039fb9">Partially Derivative</a>: Data science in the world around us.</li>
+      <li style="font-size:15px;"><a href="https://casualinfer.libsyn.com/" style="text-decoration: none; color:#039fb9">Casual Inference</a>: Topics include epidemiology, statistics, data science, causal inference, and public health.</li>
+      <li style="font-size:15px;"><a href="https://r-podcast.org/" style="text-decoration: none; color:#039fb9">The R-Podcast</a>: Practical advice on how to use R for powerful and innovative data analyses.</li>
+      <li style="font-size:15px;"><a href="https://dataskeptic.com/" style="text-decoration: none; color:#039fb9">Data Skeptic</a>: Topics include data science, machine learning, and artificial intelligence.</li>
+      <li style="font-size:15px;"><a href="https://talkpython.fm/" style="text-decoration: none; color:#039fb9">Talk Python To Me</a>: Python and related technologies.</li>
+      <li style="font-size:15px;"><a href="https://datastori.es/" style="text-decoration: none; color:#039fb9">Data Stories</a>: Data visualization.</li>
+     <li style="font-size:15px;"><a href="https://www.ladybug.dev/" style="text-decoration: none; color:#039fb9">Ladybug Podcast</a>: Three women in tech debugging the industry.</li>
+      </ul>
+      <a href="https://github.com/rShetty/awesome-podcasts" style="text-decoration: none; color:#039fb9">EVEN MORE AWESOME PODCASTS</a>
 </p>
 
-<h3 style="font-size:17px;">
-  Blogs
-</h3>
+
+
