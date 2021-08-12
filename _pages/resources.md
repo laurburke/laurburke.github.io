@@ -64,9 +64,10 @@ When I was first starting out in my professional career, I scoured the internet 
       <li style="font-size:15px;"><a href="https://datastori.es/" target="_blank" style="text-decoration: none; color:#039fb9">Data Stories</a>: Data visualization.</li>
      <li style="font-size:15px;"><a href="https://www.ladybug.dev/" target="_blank" style="text-decoration: none; color:#039fb9">Ladybug Podcast</a>: Three women in tech debugging the industry.</li>
       </ul>
-      
-<span style="font-size:15px;"> <a href="https://github.com/rShetty/awesome-podcasts" target="_blank" style="text-decoration: none; color:#039fb9">EVEN MORE AWESOME PODCASTS</a></span>
+ </p>     
+
+<p style="font-size:15px;"> <a href="https://github.com/rShetty/awesome-podcasts" target="_blank" style="text-decoration: none; color:#039fb9">EVEN MORE AWESOME PODCASTS</a></span>
 </p>
 
-<p style="font-size:15px;"> </br></br>
+<p style="font-size:15px;"> 
    Think I missed a good resource? Send me a note <a href="www.womeninanalytics.com" style="text-decoration: none; color:#039fb9">here</a>! </p>
