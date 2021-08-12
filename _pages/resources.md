@@ -14,7 +14,7 @@ When I was first starting out in my professional career, I scoured the internet 
 <h3 style="font-size:18px;">Organizations</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a> - Topics: Analytics, DS, ML, AI, Location: Global, Features: Annual conference, membership program </li>
+      <li style="font-size:15px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a> (Analytics/DS/ML/AI) Location: Global, Features: Annual conference, membership program </li>
       <li style="font-size:15px;"><a href="https://wimdls.org" style="text-decoration: none; color:#039fb9">Women in Machine Learning and Data Science (WiMLDS)</a> - Location: international, Features: chapter-based</li>
       <li style="font-size:15px;"><a href="https://pyladies.com/" style="text-decoration: none; color:#039fb9">Pyladies</a> - Location: international, Features: chapter-based</li>
       <li style="font-size:15px;"><a href="https://rladies.org/" style="text-decoration: none; color:#039fb9">R-Ladies</a> - Location: international, Features: chapter-based</li>
