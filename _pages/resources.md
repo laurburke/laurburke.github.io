@@ -69,4 +69,4 @@ When I was first starting out in my professional career, I scoured the internet 
 </p>
 
 <p style="font-size:15px;"> </br></br>
-   Think I missed a good resource? Send me a note <a href="/contact/" style="text-decoration: none; color:#039fb9">here</a>! </p>
+   Think I missed a good resource? Send me a note <a href="www.womeninanalytics.com" style="text-decoration: none; color:#039fb9">here</a>! </p>
