@@ -37,7 +37,7 @@ When I was first starting out in my professional career, I scoured the internet 
 <h3 style="font-size:16px;">Professional Associations</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="https://cwstat.org/" target="_blank"style="text-decoration: none; color:#039fb9">Caucus for Women in Statistics</a></li>
+      <li style="font-size:15px;"><a href="https://cwstat.org/" target="_blank" style="text-decoration: none; color:#039fb9">Caucus for Women in Statistics</a></li>
       <li style="font-size:15px;"><a href="https://awm-math.org/" target="_blank" style="text-decoration: none; color:#039fb9">Association for Women in Mathematics</a></li>
       <li style="font-size:15px;"><a href="https://www.amstat.org/" target="_blank" style="text-decoration: none; color:#039fb9">American Statistical Association</a></li>
    </ul>
