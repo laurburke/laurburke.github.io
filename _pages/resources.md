@@ -66,7 +66,11 @@ When I was first starting out in my professional career, I scoured the internet 
       </ul>
  </p>     
 
-<p style="font-size:15px;"> <a href="https://github.com/rShetty/awesome-podcasts" target="_blank" style="text-decoration: none; color:#039fb9">EVEN MORE AWESOME PODCASTS</a></span>
+<p style="font-size:15px;"> <a href="https://github.com/rShetty/awesome-podcasts" target="_blank" style="text-decoration: none; color:#039fb9">EVEN MORE AWESOME PODCASTS</a>
+</p>
+
+
+<p style="font-size:15px;"> <a href="laurenburke.com" style="text-decoration: none; color:#039fb9">here.</a>
 </p>
 
 <p style="font-size:15px;"> 
