@@ -11,17 +11,25 @@ comments: false
 When I was first starting out in my professional career, I scoured the internet for hours looking for resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and various others. I've compiled this list of what I've found with the hope of it helping others along the way.
 </p>
 
-<h3 style="font-size:18px;">Organizations</h3>
+<h3 style="font-size:18px;">Women in Tech Organizations</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a> (Analytics/Data Science/ML/AI) <span style="font-weight:500;">Location</span>: Global, Features: Annual conference, membership program </li>
-      <li style="font-size:15px;"><a href="https://wimdls.org" style="text-decoration: none; color:#039fb9">Women in Machine Learning and Data Science (WiMLDS)</a> - Location: international, Features: chapter-based</li>
-      <li style="font-size:15px;"><a href="https://pyladies.com/" style="text-decoration: none; color:#039fb9">Pyladies</a> - Location: international, Features: chapter-based</li>
-      <li style="font-size:15px;"><a href="https://rladies.org/" style="text-decoration: none; color:#039fb9">R-Ladies</a> - Location: international, Features: chapter-based</li>
-      <li style="font-size:15px;"><a href="https://www.womeninbigdata.org/" style="text-decoration: none; color:#039fb9">Women in Big Data</a> - Location: international, Features: chapter-based</li>
-        <li style="font-size:15px;"><a href="https://womeninvoice.org/" style="text-decoration: none; color:#039fb9">Women in Voice</a> - Location: international, Features: chapter-based</li>
-       <li style="font-size:15px;"><a href="https://www.womenwhocode.com/" style="text-decoration: none; color:#039fb9">Women Who Code</a> - Location: international, Features: chapter-based</li>
-       <li style="font-size:15px;"><a href="https://witi.com/" style="text-decoration: none; color:#039fb9">Women in Technology International (WITI)</a> - Location: international, Features: chapter-based</li>
+      <li style="font-size:15px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>: Global, annual conference, membership program. </li>
+      <li style="font-size:15px;"><a href="https://wimdls.org" style="text-decoration: none; color:#039fb9">Women in Machine Learning and Data Science (WiMLDS)</a>: Global, chapter-based. </li>
+      <li style="font-size:15px;"><a href="https://pyladies.com/" style="text-decoration: none; color:#039fb9">Pyladies</a>: Global, chapter-based.</li>
+      <li style="font-size:15px;"><a href="https://rladies.org/" style="text-decoration: none; color:#039fb9">R-Ladies</a>: Global, chapter-based. </li>
+      <li style="font-size:15px;"><a href="https://www.womeninbigdata.org/" style="text-decoration: none; color:#039fb9">Women in Big Data</a>: Global, chapter-based. </li>
+        <li style="font-size:15px;"><a href="https://womeninvoice.org/" style="text-decoration: none; color:#039fb9">Women in Voice</a>: Global, chapter-based.</li>
+       <li style="font-size:15px;"><a href="https://www.womenwhocode.com/" style="text-decoration: none; color:#039fb9">Women Who Code</a>: Global, chapter-based. </li>
+       <li style="font-size:15px;"><a href="https://witi.com/" style="text-decoration: none; color:#039fb9">Women in Technology International (WITI)</a>: Global, chapter-based. </li>
+   </ul>
+</p>
+
+<h3 style="font-size:16px;">Diversity in Tech Organizations</h3>
+<p style="font-size:15px;">
+   <ul style="font-size:15px;">
+      <li style="font-size:15px;"><a href="https://www.dataumbrella.org/" style="text-decoration: none; color:#039fb9">Data Umbrella</a>: For under-represented persons in the fields of ML/DS/AI.</li>
+      <li style="font-size:15px;"><a href="https://www.diversifytech.co/" style="text-decoration: none; color:#039fb9">DiversifyTech</a>: Scholarships, events, career resources, and opportunities.</li>
    </ul>
 </p>
 
@@ -30,20 +38,13 @@ When I was first starting out in my professional career, I scoured the internet 
    <ul style="font-size:15px;">
       <li style="font-size:15px;"><a href="https://cwstat.org/" style="text-decoration: none; color:#039fb9">Caucus for Women in Statistics</a></li>
       <li style="font-size:15px;"><a href="https://awm-math.org/" style="text-decoration: none; color:#039fb9">Association for Women in Mathematics</a></li>
-   </ul>
-</p>
-
-<h3 style="font-size:16px;">Professional Associations</h3>
-<p style="font-size:15px;">
-   <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="https://www.dataumbrella.org/" style="text-decoration: none; color:#039fb9">Data Umbrella</a>: For under-represented persons in the fields of ML/DS/AI.</li>
-      <li style="font-size:15px;"><a href="https://www.diversifytech.co/" style="text-decoration: none; color:#039fb9">DiversifyTech</a></li>
+      <li style="font-size:15px;"><a href="https://www.amstat.org/" style="text-decoration: none; color:#039fb9">American Statistical Association</a></li>
    </ul>
 </p>
 
 
 <h2 style="font-size:18px;">
-   Data Science & Analytics
+   Data Science & Analytics Resources
 </h2>
 
 <h3 style="font-size:16px;">
@@ -67,4 +68,4 @@ When I was first starting out in my professional career, I scoured the internet 
 </p>
 
 
-
+Did I miss something? Send me a note <a href="https:/laurburke.github.io/contact/" style="text-decoration: none; color:#039fb9">here</a>!
