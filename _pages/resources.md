@@ -17,10 +17,10 @@ When I was first starting out in my professional career, I scoured the internet 
 
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
-      <li style="font-size:15px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>: </li>
-      <li style="font-size:15px;"><a href="https://wimdls.org" style="text-decoration: none; color:#039fb9">WiMLDS</a>: Women in Machine Learning and Data Science, a global organization with chapters across the globe.</li>
-      <li style="font-size:15px;"><a href="https://pyladies.com/" style="text-decoration: none; color:#039fb9">Pyladies</a>: </li>
-      <li style="font-size:15px;"><a href="https://rladies.org/" style="text-decoration: none; color:#039fb9">R-Ladies</a>: </li>
+      <li style="font-size:15px;"><a href="https://womeninanalytics.com" style="text-decoration: none; color:#039fb9">Women in Analytics</a>: Location: Global, Features: Annual conference, membership program </li>
+      <li style="font-size:15px;"><a href="https://wimdls.org" style="text-decoration: none; color:#039fb9">Women in Machine Learning and Data Science (WiMLDS)</a>: Global, chapter-based</li>
+      <li style="font-size:15px;"><a href="https://pyladies.com/" style="text-decoration: none; color:#039fb9">Pyladies</a>: Global, chapter-based</li>
+      <li style="font-size:15px;"><a href="https://rladies.org/" style="text-decoration: none; color:#039fb9">R-Ladies</a>: Global, chapter-based</li>
       <li style="font-size:15px;"><a href="https://cwstat.org/" style="text-decoration: none; color:#039fb9">Caucus for Women in Statistics</a>: </li>
    </ul>
 </p>
