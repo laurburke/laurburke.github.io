@@ -69,10 +69,3 @@ When I was first starting out in my professional career, I scoured the internet 
 <p style="font-size:15px;"> 
    <a href="https://github.com/rShetty/awesome-podcasts" target="_blank" style="text-decoration: none; color:#039fb9">EVEN MORE AWESOME PODCASTS</a>vvff
 </p>
-
-
-<p style="font-size:15px;"> <a href="laurenburke.com" style="text-decoration: none; color:#039fb9">here.</a>
-</p>
-
-<p style="font-size:15px;"> 
-   Think I missed a good resource? Send me a note <a href="www.womeninanalytics.com" style="text-decoration: none; color:#039fb9">here</a>! </p>
