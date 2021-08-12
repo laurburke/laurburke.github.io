@@ -69,6 +69,6 @@ When I was first starting out in my professional career, I scoured the internet 
 
 <p style="font-size:15px;"> 
    <a href="https://github.com/rShetty/awesome-podcasts" target="_blank" style="text-decoration: none; color:#039fb9">  &nbsp; &nbsp; &nbsp; EVEN MORE AWESOME PODCASTS</a>
-   </br></br></br>
+   <br><br><br>
    Think I missed a good resource? Let me know <a href="https://laurburke.github.io/contact/" style="text-decoration: none; color:#039fb9">here</a>!
 </p>
