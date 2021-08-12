@@ -11,7 +11,8 @@ comments: false
 When I was first starting out in my professional career, I scoured the internet for hours looking for resources that could help me on my journey - professional organizations, places to volunteer, slacks to join, blogs to follow, podcasts, and various others. I've compiled this list of what I've found with the hope of it helping others along the way.
 </p>
 
-<h3 style="font-size:18px;">Women in Tech Organizations</h3>
+<h2 style="font-size:18px;">Organizations</h2>
+<h3 style="font-size:18px;">Women in Tech</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
       <li style="font-size:15px;"><a href="https://womeninanalytics.com" target="_blank" style="text-decoration: none; color:#039fb9">Women in Analytics</a>: Global, annual conference, membership program. </li>
@@ -25,7 +26,7 @@ When I was first starting out in my professional career, I scoured the internet 
    </ul>
 </p>
 
-<h3 style="font-size:16px;">Diversity in Tech Organizations</h3>
+<h3 style="font-size:16px;">Diversity in Tech</h3>
 <p style="font-size:15px;">
    <ul style="font-size:15px;">
       <li style="font-size:15px;"><a href="https://www.dataumbrella.org/" target="_blank" style="text-decoration: none; color:#039fb9">Data Umbrella</a>: For under-represented persons in the fields of ML/DS/AI.</li>
