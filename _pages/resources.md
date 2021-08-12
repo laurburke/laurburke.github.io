@@ -68,4 +68,4 @@ When I was first starting out in my professional career, I scoured the internet 
 </p>
 
 </br></br>
-Think I missed something? Send me a note <a href="https:/laurburke.github.io/contact/" style="text-decoration: none; color:#039fb9">here</a>!
+Think I missed a good resource? Send me a note <a href="https:/laurburke.github.io/contact/" style="text-decoration: none; color:#039fb9">here</a>!
