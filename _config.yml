@@ -77,8 +77,17 @@ font:         "'Noto Sans', Helvetica, Arial, sans-serif"
 font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif"
 google_fonts: "Roboto+Slab:700|Noto+Sans:400,400i,700,700i"
 
+# SEO Related
+google_site_verification : "IcRUZDh4dsy6uKFXTT62wFpgSw7qMtnxVmlOS5TAK7A"
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
 
-
+# Analytics
+analytics:
+  provider: "google" #false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: UA-204825159-1
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
