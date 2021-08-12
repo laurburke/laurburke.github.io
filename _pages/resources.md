@@ -62,9 +62,9 @@ When I was first starting out in my professional career, I scoured the internet 
       <li style="font-size:15px;"><a href="https://dataskeptic.com/" style="text-decoration: none; color:#039fb9">Data Skeptic</a>: Topics include data science, machine learning, and artificial intelligence.</li>
       <li style="font-size:15px;"><a href="https://talkpython.fm/" style="text-decoration: none; color:#039fb9">Talk Python To Me</a>: Python and related technologies.</li>
       <li style="font-size:15px;"><a href="https://datastori.es/" style="text-decoration: none; color:#039fb9">Data Stories</a>: Data visualization.</li>
-     <li style="font-size:15px;"><a href="https://www.ladybug.dev/" style="text-decoration: none; color:#039fb9">Ladybug Podcast</a>: Three women in tech debugging the industry.</li>
+     <li style="font-size:15px;"><a href="https://www.ladybug.dev/"  target="_blank" style="text-decoration: none; color:#039fb9">Ladybug Podcast</a>: Three women in tech debugging the industry.</li>
       </ul>
-      <a href="https://github.com/rShetty/awesome-podcasts" style="text-decoration: none; color:#039fb9">EVEN MORE AWESOME PODCASTS</a>
+      <a href="https://github.com/rShetty/awesome-podcasts" target="_blank" style="text-decoration: none; color:#039fb9">EVEN MORE AWESOME PODCASTS</a>
 </p>
 
 </br></br>
