@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://localhost:4000/jekyll/update/2021/07/25/welcome-to-jekyll.html</loc>
+<loc>http://localhost:4000/jekyll/update/2021/07/25/welcome-to-jekyll.html</loc>
 <lastmod>2021-07-25T19:33:43-04:00</lastmod>
 </url>
 <url>
-<loc>https://localhost:4000/about/</loc>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>https://localhost:4000/contact/</loc>
+<loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
-<loc>https://localhost:4000/data-science/</loc>
+<loc>http://localhost:4000/data-science/</loc>
 </url>
 <url>
-<loc>https://localhost:4000/media/</loc>
+<loc>http://localhost:4000/media/</loc>
 </url>
 <url>
-<loc>https://localhost:4000/resources/</loc>
+<loc>http://localhost:4000/resources/</loc>
 </url>
 <url>
-<loc>https://localhost:4000/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 </urlset>
