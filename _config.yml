@@ -27,7 +27,7 @@ description: #temp description
 logo: assets/images/LB-round.png
 favicon: assets/images/LB-round.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://laurburke.github.io" 
+url: "http://laurburke.github.io" 
 twitter_username: lauren_e_burke
 github_username:  laurburke
 repository: laurburke/laurburke.github.io
