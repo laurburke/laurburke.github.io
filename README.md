@@ -2,6 +2,7 @@
 #title:  ""
 permalink: /
 redirect_from: "/1.html"
+redirect_from: "/about.html"
 
 ---
 
