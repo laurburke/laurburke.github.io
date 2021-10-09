@@ -1,3 +1,10 @@
+---
+#title:  ""
+permalink: /
+redirect_from: "/1/"
+
+---
+
 <h3 style="font-size:25px;">
   Hi, I'm Lauren Burke. As a Data Scientist, I find creative solutions to complex problems.
 </h3>
