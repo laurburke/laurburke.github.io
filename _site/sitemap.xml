@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-<loc>http://localhost:4000/about/</loc>
+  <loc>https://laurburke.github.io/</loc>
+  <lastmod>2021-10-09T22:37:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>  
+<url>
+  <loc>https://laurburke.github.io/resources/</loc>
+  <lastmod>2021-10-09T22:37:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/data-science/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/media/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/resources/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
+  <loc>https://laurburke.github.io/contact/</loc>
+  <lastmod>2021-10-09T22:37:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url> 
 </urlset>
