@@ -226,6 +226,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-include-cache
+  jekyll-redirect-from
   minimal-mistakes-jekyll (~> 4.0)
   webrick (~> 1.7)
 
