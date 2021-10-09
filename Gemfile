@@ -7,4 +7,5 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 
 gem "minimal-mistakes-jekyll", "~>4.0"
 gem "webrick", "~> 1.7"
+gem "jekyll-redirect-from"
 #gem "jekyll-sitemap"
