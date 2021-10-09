@@ -6,7 +6,22 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/</loc>
+      
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -21,7 +36,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -36,7 +51,7 @@
     <url>
       <loc>http://localhost:4000/contact/</loc>
       
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -51,7 +66,7 @@
     <url>
       <loc>http://localhost:4000/data-science/</loc>
       
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -66,7 +81,7 @@
     <url>
       <loc>http://localhost:4000/index.txt</loc>
       
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -81,7 +96,7 @@
     <url>
       <loc>http://localhost:4000/_sass/main.css</loc>
       
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -96,7 +111,7 @@
     <url>
       <loc>http://localhost:4000/media/</loc>
       
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -111,7 +126,7 @@
     <url>
       <loc>http://localhost:4000/resources/</loc>
       
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -130,28 +145,13 @@
   
     
   
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/</loc>
-      
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
     
   
     
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2021-10-09T18:52:11-04:00</lastmod>
+        <lastmod>2021-10-09T19:05:25-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
