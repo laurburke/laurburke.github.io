@@ -1,7 +1,7 @@
 ---
 #title:  ""
 permalink: /
-redirect_from: "/1/"
+redirect_from: "/1.html"
 
 ---
 
