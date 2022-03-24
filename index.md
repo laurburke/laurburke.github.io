@@ -14,7 +14,7 @@ Outside of work, I'm an active member of my local and larger tech communities. A
 <br>
 
 #### Community Involvement
-I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. Here are a few of the organizations that I am currently or have previously been involved with over the years. </p>
+I'm an avid supporter of initiatives that foster enthusiasm for STEM and encourage the development of creative problem-solving skills. Here are a few of the organizations that I am currently or have previously been involved with over the years.
   
 - <a href="http://scikit-learn.org/" target="_blank" style="text-decoration: none; color:#039fb9">scikit-learn</a>: I am a member of scikit-learn's Communication Team. In 2022, I created the <a href="https://blog.scikit-learn.org/" target="_blank" style="text-decoration: none; color:#039fb9">official blog</a> for the organization.
 - <a href="http://techcorps.org/" target="_blank" style="text-decoration: none; color:#039fb9">TECH CORPS</a>: A national nonprofit headquartered in Columbus. I have been involved for a number of years as a volunteer, Career Corps speaker, and hackathon judge/mentor. In 2021, I was invited to join the Regional Steering Committee.
