@@ -1,35 +1,65 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: "Lauren Burke ~ Data Bender"
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# Theme
+remote_theme  : chrisrhymes/bulma-clean-theme
+theme_color   : '#022343'
+
+
+### Site settings ###
+title       : Lauren Burke 〜 Data Bender
+email       : laurenemilyburke17@gmail.com
+description :
+baseurl     : "/v3" # the subpath of your site, e.g. /blog
+url         : "/v3" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Site Social
+twitter_username    : lauren_e_burke
+github_username     :  laurburke
+
+# Site Logos
+logo    : "assets/images/site_images/LB-round.png"
+favicon : assets/images/site_images/LB-round.png
+
+# Author
+author:
+  name      : "Lauren Burke"
+  avatar    : "assets/images/site_images/lauren-burke-headshot.jpeg"
+  intro     : "Hi, I'm Lauren Burke."
+  bio       : "Data Scientist"
+  blurb     : "As a Data Scientist, I find creative solutions to complex problems."
+  location  : "Columbus, OH"
+  email     : laurenemilyburke17@gmail.com
+  github    :
+  linkedin  : lauren-e-burke
+  twitter   : lauren_e_burke
+  facebook  :
+  instagram :
+  youtube   :
+
+
+# Footer
+footer_menu: my_footer
+
+
+# Custom Footer
+custom_footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lauren_e_burke"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/lauren-e-burke"
+
 
 # Build settings
 markdown: kramdown
 #theme: minima
-remote_theme: chrisrhymes/bulma-clean-theme
+
 plugins:
   - jekyll-feed
+  
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

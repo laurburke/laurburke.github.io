@@ -1,0 +1,11 @@
+- name: Resources
+  link: /resources/
+- name: Contact
+  link: /contact/
+- name: More
+  dropdown:
+    - name: Community
+      link: /community/
+    - name: Speaking
+      link: /speaking/
+      
