@@ -8,12 +8,12 @@ theme_color   : '#022343'
 title       : Lauren Burke 〜 Data Bender
 email       : laurenemilyburke17@gmail.com
 description :
-baseurl     : "/v3" # the subpath of your site, e.g. /blog
+baseurl     : "" # the subpath of your site, e.g. /blog
 url         : "https://laurburke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Site Social
 twitter_username    : lauren_e_burke
-github_username     :  laurburke
+github_username     : laurburke
 
 # Site Logos
 logo    : "assets/images/site_images/LB-round.png"
