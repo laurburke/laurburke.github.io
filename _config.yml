@@ -9,7 +9,7 @@ title       : Lauren Burke 〜 Data Bender
 email       : laurenemilyburke17@gmail.com
 description :
 baseurl     : "/v3" # the subpath of your site, e.g. /blog
-url         : "/v3" # the base hostname & protocol for your site, e.g. http://example.com
+url         : "https://laurburke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Site Social
 twitter_username    : lauren_e_burke
