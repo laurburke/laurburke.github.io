@@ -5,7 +5,7 @@ theme_color   : '#022343'
 
 
 ### Site settings ###
-title       : Lauren Burke 〜 Data Bender
+title       : Lauren Burke
 email       : laurenemilyburke17@gmail.com
 description :
 baseurl     : "" # the subpath of your site, e.g. /blog
