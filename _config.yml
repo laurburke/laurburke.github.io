@@ -1,25 +1,29 @@
 
-# Theme
+### Theme ###
 remote_theme  : chrisrhymes/bulma-clean-theme
 theme_color   : '#022343'
 
 
 ### Site settings ###
-title       : Lauren Burke
-email       : laurenemilyburke17@gmail.com
-description :
-baseurl     : "" # the subpath of your site, e.g. /blog
-url         : "https://laurburke.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title		: Lauren Burke
+tagline		: Databender
+lang		: en
+email		: laurenemilyburke17@gmail.com
+description	: 
+baseurl		: "" # the subpath of your site, e.g. /blog
+url		: "https://laurburke.github.io"
+open_new_tab	: true  
 
 # Site Social
-twitter_username    : lauren_e_burke
-github_username     : laurburke
+twitter_username : lauren_e_burke
+github_username  : laurburke
 
 # Site Logos
 logo    : "assets/images/site_images/LB-round.png"
 favicon : assets/images/site_images/LB-round.png
 
-# Author
+
+# Author Info
 author:
   name      : "Lauren Burke"
   avatar    : "assets/images/site_images/lauren-burke-headshot.jpeg"
@@ -36,9 +40,8 @@ author:
   youtube   :
 
 
-# Footer
-footer_menu: my_footer
-
+### Footer ###
+#footer_menu: my_footer
 
 # Custom Footer
 custom_footer:
@@ -49,6 +52,11 @@ custom_footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/lauren-e-burke"
+
+
+### Analytics ###
+google_analytics: UA-204825159-1
+
 
 
 # Build settings
