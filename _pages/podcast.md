@@ -9,7 +9,7 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 ---
 
 <div>
-    <p style="float: left;"><img src="../assets/images/FINAL - WIA After Hours Podcast Logo.png" height="200px" width="200px" border="1px" padding: 50px 50px 50px 50px;>
+    <p style="float: left;"><img src="../assets/images/FINAL - WIA After Hours Podcast Logo.png" height="200px" width="200px" border="1px" padding: "50px 50px 50px 50px">
     </p>
 </div>
 <h3>WIA After Hours</h3>
