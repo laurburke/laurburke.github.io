@@ -10,7 +10,7 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 
 
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://loremflickr.com/320/240" alt="img"/>
+<img src="assets/images/FINAL - WIA After Hours Podcast Logo.png" alt="img"/>
 </div>
 <div style="display:inline-block;">
 <p>
@@ -20,7 +20,7 @@ Here goes the text content.
 
 <div>
 <div>
-<img src="url" />
+<img src="assets/images/FINAL - WIA After Hours Podcast Logo.png" />
 </div>
 <div>
 Text content goes here
