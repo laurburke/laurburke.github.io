@@ -54,8 +54,11 @@ I've compiled this list of what I've found with the hope of it helping others al
 - <a href="https://datastori.es/" target="_blank" style="text-decoration: none; color:#039fb9">Data Stories</a>: Data visualization.
 - <a href="https://www.ladybug.dev/" target="_blank" style="text-decoration: none; color:#039fb9">Ladybug Podcast</a>: Three women in tech debugging the industry.
 
-
 <a href="https://github.com/rShetty/awesome-podcasts" target="_blank" style="text-decoration: none; color:#039fb9">  &nbsp; &nbsp; &nbsp; EVEN MORE AWESOME PODCASTS</a>
+
+### Resource Collections
+- <a href="https://www.mbastack.org/data-science-learning-resources/" target="_blank" style="text-decoration: none; color:#039fb9">Data Science Learning Resources (MBAStack)</a>: Resources about data science, statistics, and careers. (Thank you Lyndhurst STEM Club for sharing!)
+
 
 
 <br><br><br>
