@@ -19,5 +19,5 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 - <span style="text-decoration: none; color:#039fb9">(Talk) Girls Who Lead Summit</span>: An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit.
 
 <h2> Media </h2>
-- <a href="https://edge.ehe.osu.edu/2023/02/08/women-in-science-lauren-burke/" target="_blank" style="text-decoration: none; color:#039fb9">(Article) Ohio State EDGE Women in Science Feature</a>
-- <a href="https://blog.dataumbrella.org/lburke" target="_blank" style="text-decoration: none; color:#039fb9">(Article) Interview with Lauren Burke: Giving Her First Solo Presentation</a>
+- <a href="https://edge.ehe.osu.edu/2023/02/08/women-in-science-lauren-burke/" target="_blank" style="text-decoration: none; color:#039fb9">Ohio State EDGE Women in Science Feature</a>
+- <a href="https://blog.dataumbrella.org/lburke" target="_blank" style="text-decoration: none; color:#039fb9">Interview with Lauren Burke: Giving Her First Solo Presentation</a>
