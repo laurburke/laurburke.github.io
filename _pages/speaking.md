@@ -10,7 +10,7 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 
 <h2> Speaking </h2>
 - <a href="" target="_blank" style="text-decoration: none; color:#02505d">Fireside Chat: Data Science as a Product</a> (2023 DataConnect Conference)
-  - Moderated the Fireside Chat with Alteryx Field CDAO, Heather Harris.
+  - Moderated the Fireside Chat with Alteryx's Field Chief Data and Analytics Officer, Heather Harris.
   
 - <a href="https://www.womeninanalytics.com/podcast-episodes/ep17" target="_blank" style="text-decoration: none; color:#02505d">Live Podcast - Building and Growing a Personal Brand in Data</a>
   - Hosted a live podcast recording session with featured guest, Kate Strachnyi, Founder of DATAcated and author of ColorWise.
