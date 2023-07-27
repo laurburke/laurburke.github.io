@@ -14,7 +14,6 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 <div>STYLE="line-height:1.5"</div>
 - <a href="https://www.womeninanalytics.com/podcast-episodes/ep17" target="_blank" style="text-decoration: none; color:#02505d">Live Podcast - Building and Growing a Personal Brand in Data</a>
   - Hosted a live podcast recording session with featured guest, Kate Strachnyi, Founder of DATAcated and author of ColorWise.
-- <a href="https://www.youtube.com/live/hd4P-5qQmGM" target="_blank" style="text-decoration: none; color:#02505d">(Podcast) How to Get An Analytics Job Podcast - Data Science Q&A</a>
 - <a href="" target="_blank" style="text-decoration: none; color:#02505d">Event Emcee</a> (2023 DataConnect West Conference)
 - <a href="https://youtu.be/7SBXl94xNl8" target="_blank" style="text-decoration: none; color:#02505d">(Talk) Building a Personal Website with Jekyll & GitHub Pages</a>: (Data Umbrella Webinar)
   - Jekyll is a static site generator that can be used to create a custom website simply, efficiently, and for free of charge. This talk goes over how to set up a Jekyll-based website and blog, install a basic theme, add customizations, and host it via GitHub Pages.
@@ -32,6 +31,12 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
   - Partner event panel with AWS, Slalom, Women in Big Data, and WIA.
 - <span style="text-decoration: none; color:#02505d">(Talk) Girls Who Lead Summit</span>: (2019 Girls Who Lead Summit, PAST Foundation)
   An interactive talk surrounding statistics, probability, and data visualization.
+
+
+<h2> Podcasts </h2>
+- <a href="https://www.youtube.com/live/hd4P-5qQmGM" target="_blank" style="text-decoration: none; color:#02505d">(Podcast) How to Get An Analytics Job Podcast - Data Science Q&A</a>
+- <a href="https://www.womeninanalytics.com/podcast" target="_blank" style="text-decoration: none; color:#02505d">Host, Women in Analytics After Hours Podcast</a>
+
 
 <h2> Teaching </h2>
 - Instructor: Business Analytics Credential - Denison Edge, Denison University 
