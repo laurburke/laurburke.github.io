@@ -1,11 +1,12 @@
 - name: Resources
   link: /resources/
+- name: Speaking
+  link: /speaking/
+- name: Podcast
+  link: /podcast/
 - name: Contact
   link: /contact/
-- name: More
-  dropdown:
-    - name: Speaking
-      link: /speaking/
-    - name: Podcast
-      link: /podcast/
+#- name: More
+#  dropdown:
+
       
