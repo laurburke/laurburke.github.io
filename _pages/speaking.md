@@ -15,6 +15,7 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 - <a href="https://www.womeninanalytics.com/podcast-episodes/ep17" target="_blank" style="text-decoration: none; color:#02505d">Live Podcast - Building and Growing a Personal Brand in Data</a>
   - Hosted a live podcast recording session with featured guest, Kate Strachnyi, Founder of DATAcated and author of ColorWise.
 - <a href="https://www.youtube.com/live/hd4P-5qQmGM" target="_blank" style="text-decoration: none; color:#02505d">(Podcast) How to Get An Analytics Job Podcast - Data Science Q&A</a>
+- <a href="" target="_blank" style="text-decoration: none; color:#02505d">Event Emcee</a> (2023 DataConnect West Conference)
 - <a href="https://youtu.be/7SBXl94xNl8" target="_blank" style="text-decoration: none; color:#02505d">(Talk) Building a Personal Website with Jekyll & GitHub Pages</a>: (Data Umbrella Webinar)
   - Jekyll is a static site generator that can be used to create a custom website simply, efficiently, and for free of charge. This talk goes over how to set up a Jekyll-based website and blog, install a basic theme, add customizations, and host it via GitHub Pages.
 - <a href="https://education.ohio.gov/Topics/Learning-in-Ohio/Mathematics/Resources-for-Mathematics/Math-Pathways#High%20School%20Mathematics%20Pathways%20Symposium" target="_blank" style="text-decoration: none; color:#02505d">(Talk) Data Science Foundations Course</a> (High School Mathematics Pathways Symposium)
