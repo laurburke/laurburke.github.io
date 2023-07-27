@@ -9,8 +9,8 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 ---
 
 <h2> Speaking </h2>
-- <a href="" target="_blank" style="text-decoration: none; color:#039fb9">Fireside Chat: Data Science as a Product</a>: Moderated the Fireside Chat at the 2023 DataConnect Conference with Alteryx Field CDAO, Heather Harris.
-  - ddd
+- <a href="" target="_blank" style="text-decoration: none; color:#039fb9">Fireside Chat: Data Science as a Product</a> (2023 DataConnect Conference)
+  - Moderated the Fireside Chat with Alteryx Field CDAO, Heather Harris.
 - <a href="https://www.womeninanalytics.com/podcast-episodes/ep17" target="_blank" style="text-decoration: none; color:#039fb9">Live Podcast - Building and Growing a Personal Brand in Data</a>: Hosted a live podcast recording session with featured guest, Kate Strachnyi, Founder of DATAcated and author of ColorWise.
 - <a href="https://www.youtube.com/live/hd4P-5qQmGM" target="_blank" style="text-decoration: none; color:#039fb9">(Podcast) How to Get An Analytics Job Podcast - Data Science Q&A</a>: Data Science Q&A
 - <a href="https://youtu.be/7SBXl94xNl8" target="_blank" style="text-decoration: none; color:#039fb9">(Talk) Data Umbrella - Building a Personal Website with Jekyll & GitHub Pages</a>: Jekyll is a static site generator that can be used to create a custom website simply, efficiently, and for free of charge. This talk goes over how to set up a Jekyll-based website and blog, install a basic theme, add customizations, and host it via GitHub Pages.
