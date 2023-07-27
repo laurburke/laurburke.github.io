@@ -20,6 +20,10 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 - <span style="text-decoration: none; color:#039fb9">(Panel) Elevate Your Data Exploration</span>: Partner event panel with AWS, Slalom, Women in Big Data, and WIA.
 - <span style="text-decoration: none; color:#039fb9">(Talk) Girls Who Lead Summit</span>: An interactive talk surrounding statistics, probability, and data visualization at the PAST Foundation's 2019 Girls Who Lead Summit.
 
+<h2> Teaching </h2>
+- Instructor: Business Analytics Credential - Denison Edge, Denison University 
+
+
 <h2> Media </h2>
 - <a href="https://www.ohiox.org/profiles/lauren-burke" target="_blank" style="text-decoration: none; color:#039fb9">Ohio Trailblazer Award Profile</a> (OhioX)
 - <a href="https://edge.ehe.osu.edu/2023/02/08/women-in-science-lauren-burke" target="_blank" style="text-decoration: none; color:#039fb9">Women in Science - Lauren Burke</a> (The Ohio State University EDGE)
