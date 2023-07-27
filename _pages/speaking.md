@@ -22,9 +22,9 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 
 <h2> Media </h2>
 - <a href="https://www.ohiox.org/profiles/lauren-burke" target="_blank" style="text-decoration: none; color:#039fb9">Ohio Trailblazer Award Profile</a> (OhioX)
-- <a href="https://edge.ehe.osu.edu/2023/02/08/women-in-science-lauren-burke" target="_blank" style="text-decoration: none; color:#039fb9">Ohio Trailblazer Award Profile</a> (Ohio State EDGE)
-- <a href="https://voyageohio.com/interview/life-work-with-lauren-burke-of-worthington/" target="_blank" style="text-decoration: none; color:#039fb9">Ohio Trailblazer Award Profile</a> (VoyageOhio)
-- <a href="https://blog.dataumbrella.org/lburke" target="_blank" style="text-decoration: none; color:#039fb9">Interview with Lauren Burke: Giving Her First Solo Presentation (Data Umbrella)</a>
+- <a href="https://edge.ehe.osu.edu/2023/02/08/women-in-science-lauren-burke" target="_blank" style="text-decoration: none; color:#039fb9">Women in Science - Lauren Burke</a> (The Ohio State University EDGE)
+- <a href="https://voyageohio.com/interview/life-work-with-lauren-burke-of-worthington/" target="_blank" style="text-decoration: none; color:#039fb9">Life & Work with Lauren Burke</a> (VoyageOhio)
+- <a href="https://blog.dataumbrella.org/lburke" target="_blank" style="text-decoration: none; color:#039fb9">Interview with Lauren Burke: Giving Her First Solo Presentation</a> (Data Umbrella)
 
 
 <h2> Awards </h2>
