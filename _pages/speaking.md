@@ -44,6 +44,7 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 
 <h2> Podcasts </h2>
 - <a href="https://www.youtube.com/live/hd4P-5qQmGM" target="_blank" style="text-decoration: none; color:#02505d">How to Get An Analytics Job Podcast - Data Science Q&A</a>
+- <a href="https://www.audacy.com/podcast/dmradio-podcast-75135/episodes/down-to-a-science-how-to-train-ai-models-58cd3" target="_blank" style="text-decoration: none; color:#02505d">DMRadio Podcast - Down to a Science? How to Train AI Models</a>
 <div STYLE="line-height:2"></div>
 - <a href="https://www.womeninanalytics.com/podcast" target="_blank" style="text-decoration: none; color:#02505d">Host, Women in Analytics After Hours Podcast</a>
 
