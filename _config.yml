@@ -5,7 +5,7 @@ theme_color   : '#022343'
 
 
 ### Site settings ###
-title		: Lauren Burke
+title		: Lauren Burke-McCarthy
 tagline		: Databender
 lang		: en
 email		: laurenemilyburke17@gmail.com
@@ -25,10 +25,10 @@ favicon : assets/images/site_images/LB-round.png
 
 # Author Info
 author:
-  name      : "Lauren Burke"
+  name      : "Lauren Burke-McCarthy"
   avatar    : "assets/images/site_images/lauren-burke-headshot.jpeg"
-  intro     : "Hi, I'm Lauren Burke."
-  bio       : "Data Scientist"
+  intro     : "Hi, I'm Lauren Burke-McCarthy."
+  bio       : "Data Science Lead"
   blurb     : "As a Data Scientist, I find creative solutions to complex problems."
   location  : "Columbus, OH"
   email     : laurenemilyburke17@gmail.com
