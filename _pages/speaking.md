@@ -9,6 +9,11 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 ---
 
 <h2> Speaking </h2>
+- <a href="https://youtu.be/_w3R-PSQxqE?si=_aE-vQ-EJrPi4N2Z" target="_blank" style="text-decoration: none; color:#02505d">A Value Playbook for Solo & Siloed Data Practitioners</a> (Data Science Salon Miami, 2024)
+- <a href="" target="_blank" style="text-decoration: none; color:#02505d">The Role of Cybersecurity in AI Adoption</a> (DataConnect Conference, 2024)
+ - Moderated the Fireside Chat with Micki Boland.
+- <a href="https://www.datauniverseevent.com/en-us/experience-and-learn/agenda/session-details.3601.214338.how-to-succeed-as-a-solo-data-scientist.html" target="_blank" style="text-decoration: none; color:#02505d">How to Succeed as a Solo Data Scientist</a> (DataUniverse, 2024)
+<div STYLE="line-height:2"></div>
 - <a href="" target="_blank" style="text-decoration: none; color:#02505d">Fireside Chat: Data Science as a Product</a> (2023 DataConnect Conference)
   - Moderated the Fireside Chat with Alteryx's Field Chief Data and Analytics Officer, Heather Harris.
 <div STYLE="line-height:2"></div>
@@ -42,7 +47,9 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
   An interactive talk surrounding statistics, probability, and data visualization.
 
 
+
 <h2> Podcasts </h2>
+- <a href="https://womenpm.org/podcast/episode-66-working-with-data-scientists/" target="_blank" style="text-decoration: none; color:#02505d">Women in Product Podcast - Episode 66: Working with Data Scientists</a>
 - <a href="https://www.youtube.com/live/hd4P-5qQmGM" target="_blank" style="text-decoration: none; color:#02505d">How to Get An Analytics Job Podcast - Data Science Q&A</a>
 - <a href="https://www.audacy.com/podcast/dmradio-podcast-75135/episodes/down-to-a-science-how-to-train-ai-models-58cd3" target="_blank" style="text-decoration: none; color:#02505d">DMRadio Podcast - Down to a Science? How to Train AI Models</a>
 <div STYLE="line-height:2"></div>
