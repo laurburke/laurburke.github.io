@@ -10,8 +10,12 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 
 <h2> Speaking </h2>
 - <a href="https://youtu.be/_w3R-PSQxqE?si=_aE-vQ-EJrPi4N2Z" target="_blank" style="text-decoration: none; color:#02505d">A Value Playbook for Solo & Siloed Data Practitioners</a> (Data Science Salon Miami, 2024)
+<div STYLE="line-height:2"></div>
+- <a href="" target="_blank" style="text-decoration: none; color:#02505d">(Panel) Tools, Platforms & Strategies For Successful ML Outcomes</a> (Ai4, 2024)
+<div STYLE="line-height:2"></div>
 - <a href="" target="_blank" style="text-decoration: none; color:#02505d">The Role of Cybersecurity in AI Adoption</a> (DataConnect Conference, 2024)
  - Moderated the Fireside Chat with Micki Boland.
+<div STYLE="line-height:2"></div>
 - <a href="https://www.datauniverseevent.com/en-us/experience-and-learn/agenda/session-details.3601.214338.how-to-succeed-as-a-solo-data-scientist.html" target="_blank" style="text-decoration: none; color:#02505d">How to Succeed as a Solo Data Scientist</a> (DataUniverse, 2024)
 <div STYLE="line-height:2"></div>
 - <a href="" target="_blank" style="text-decoration: none; color:#02505d">Fireside Chat: Data Science as a Product</a> (2023 DataConnect Conference)
