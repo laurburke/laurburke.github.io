@@ -1,6 +1,6 @@
 
 ### Theme ###
-remote_theme  : chrisrhymes/bulma-clean-theme
+remote_theme  : chrisrhymes/bulma-clean-theme@v0.14.0
 theme_color   : '#022343'
 
 
