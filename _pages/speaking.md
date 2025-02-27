@@ -28,6 +28,13 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">DataConnect Conference | July 2024
+ <a href="https://youtu.be/5f5cJEcvinw?si=8KtldtPfHxBqn1QD" target="_blank" style="text-decoration: none; font-weight:900;"> (Recording)</a></p>
+ AI at the Crossroads: Balancing Innovation & Risk with Strategic AI Design (Co-presentation with Kristy Hollingshead)
+</div>
+<div style="line-height:150%;"><br></div>
+
+<div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">DataConnect Conference | July 2024
  <a href="https://youtu.be/gsru5DbOgvE?si=hA6nfWJngkpLBryF" target="_blank" style="text-decoration: none; font-weight:900;"> (Recording)</a></p>
 Fireside Chat: The Role of Cybersecurity in AI Adoption (with Micki Boland)
 </div>
