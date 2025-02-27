@@ -53,7 +53,7 @@ How to Succeed as a Solo Data Scientist
 
 <h2> Live WIA After Hours Recordings </h2>
 <div STYLE="line-height:1.4">
-<p style="text-decoration: none; color:#02505d; font-weight:900;">DataConnect Conference | 2024 <a href="https://youtu.be/uUrg6tU4fX8?si=ZsPlSsG1_UWIRkrV" target="_blank" style="text-decoration: none; font-weight:900;"> (Recording)</a><a href="https://www.womeninanalytics.com/podcast-episodes/ep17" target="_blank" style="text-decoration: none; font-weight:900;"> (Listen Here!)</a></p>
+<p style="text-decoration: none; color:#02505d; font-weight:900;">DataConnect Conference | 2024 <a href="https://youtu.be/uUrg6tU4fX8?si=ZsPlSsG1_UWIRkrV" target="_blank" style="text-decoration: none; font-weight:900;"> (Recording)</a><a href="https://www.womeninanalytics.com/podcast-episodes/ep22" target="_blank" style="text-decoration: none; font-weight:900;"> (Listen Here!)</a></p>
 How a Community Information Exchange Aligns Data to Enable Action, featuring Diane Dagefoerde, an Executive Advisor at Smart Columbus.
 </div>
 <div style="line-height:150%;"><br></div>
