@@ -27,9 +27,9 @@ favicon : assets/images/site_images/LB-round.png
 author:
   name      : "Lauren Burke-McCarthy"
   avatar    : "assets/images/speaking/DCC24_Speaking_crop.JPG"
-  intro     : "Hi, I'm Lauren Burke-McCarthy."
-  bio       : "AI Strategy Leader | Product Data Scientist <br> Responsible & Accountable AI Advocate"
-  blurb     : "Finding creative solutions to complex problems, enabling AI to enable people."
+  intro     : "AI Strategy Leader | Product Data Scientist <br> Responsible & Accountable AI Advocate"
+  bio       : "Finding creative solutions to complex problems, enabling AI to enable people."
+  blurb     : 
   location  : "Columbus, OH"
   email     : laurenemilyburke17@gmail.com
   github    : laurburke
