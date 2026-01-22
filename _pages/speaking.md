@@ -11,18 +11,6 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 
 <h2> Conferences </h2>
 
-<div STYLE="line-height:1.4">
-<p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC East | May 2025 </p>
-A Value Playbook for Sustainable Data Science Adoption
-</div>
-<div style="line-height:150%;"><br></div>
-
-<div STYLE="line-height:1.4">
-<p style="text-decoration: none; color:#02505d; font-weight:900;">Agile to Agility | May 2025 <a href="https://www.youtube.com/watch?v=R19mhXMgw-k" target="_blank" style="text-decoration: none; font-weight:900;"> (Recording)</a></p>
-AI Risk Management (as a Product)
-</div>
-<div style="line-height:150%;"><br></div>
-
 
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC East | May 2025 </p>
@@ -136,6 +124,12 @@ Building and Growing a Personal Brand in Data, featuring Kate Strachnyi, Founder
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC Minisode<a href="https://odsc.medium.com/ais-bright-future-insights-from-odsc-east-2025-podcast-minisodes-2013ee14a8ab" target="_blank" style="text-decoration: none; font-weight:900;"> (Listen Here)</a></p>
 Cal Al-Dhubaib & Lauren Burke-McCarthy (Further) — Balancing AI Value and Risk
+</div>
+<div style="line-height:150%;"><br></div>
+
+<div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">Data Science Salon<a href="https://www.youtube.com/watch?v=M0LWVaf03bo" target="_blank" style="text-decoration: none; font-weight:900;"> (Listen Here)</a></p>
+Solo Success: Mastering Value Creation as a Standalone Data Practitioner
 </div>
 <div style="line-height:150%;"><br></div>
 
