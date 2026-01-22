@@ -12,7 +12,7 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 <h2> Conferences </h2>
 
 <div STYLE="line-height:1.4">
-<p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC East | May 2025
+<p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC East | May 2025 </p>
 A Value Playbook for Sustainable Data Science Adoption
 </div>
 <div style="line-height:150%;"><br></div>
