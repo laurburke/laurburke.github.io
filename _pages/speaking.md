@@ -15,6 +15,7 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC East | May 2025 </p>
 A Value Playbook for Sustainable Data Science Adoption
+<i>Additionally, led a roundtable session on AI literacy for 40 participants.</i>
 </div>
 <div style="line-height:150%;"><br></div>
 
