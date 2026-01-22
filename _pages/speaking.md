@@ -10,6 +10,19 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 ---
 
 <h2> Conferences </h2>
+
+<div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC East | May 2025
+A Value Playbook for Sustainable Data Science Adoption
+</div>
+<div style="line-height:150%;"><br></div>
+
+<div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">Agile to Agility | May 2025 <a href="https://www.youtube.com/watch?v=R19mhXMgw-k" target="_blank" style="text-decoration: none; font-weight:900;"> (Recording)</a></p>
+AI Risk Management (as a Product)
+</div>
+<div style="line-height:150%;"><br></div>
+
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">Data Science Salon Austin | Feb 2025 <a href="https://youtu.be/YEGdssuoq-w?si=JclCB4ETgAtrm4dx" target="_blank" style="text-decoration: none; font-weight:900;"> (Recording)</a></p>
 (Panel) Generative AI: Seizing Opportunities and Overcoming Challenges in the Enterprise
@@ -102,11 +115,18 @@ Building and Growing a Personal Brand in Data, featuring Kate Strachnyi, Founder
 
 
 <h2> Event Emcee </h2>
-- 2024 DataConnect West Conference
-- 2023 DataConnect West Conference
+- 2023-2025 DataConnect West Conference
 
 
 <h2> Podcasts </h2>
+
+<div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC Minisode<a href="https://odsc.medium.com/ais-bright-future-insights-from-odsc-east-2025-podcast-minisodes-2013ee14a8ab" target="_blank" style="text-decoration: none; font-weight:900;"> (Listen Here)</a></p>
+Cal Al-Dhubaib & Lauren Burke-McCarthy (Further) — Balancing AI Value and Risk
+</div>
+<div style="line-height:150%;"><br></div>
+
+
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">Women in Product Podcast <a href="https://womenpm.org/podcast/episode-66-working-with-data-scientists/" target="_blank" style="text-decoration: none; font-weight:900;"> (Listen Here)</a></p>
 Episode 66: Working with Data Scientists
