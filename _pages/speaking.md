@@ -9,14 +9,19 @@ hero_height: is-fullwidth
 hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 ---
 
-<h2> Conferences </h2>
+<h2> Conferences & Events </h2>
+
+<div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">CLE AI & DATA | January 2026 </p>
+Designing AI Around Outcomes: A Product Approach to Adoption, Risk, and Real Problems
+</div>
+<div style="line-height:150%;"><br></div>
 
 
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC East | May 2025 </p>
-A Value Playbook for Sustainable Data Science Adoption
+A Value Playbook for Sustainable Data Science Adoption </div>
 <i>Additionally, led a roundtable session on AI literacy for 40 participants.</i>
-</div>
 <div style="line-height:150%;"><br></div>
 
 <div STYLE="line-height:1.4">
