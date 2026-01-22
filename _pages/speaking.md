@@ -2,7 +2,7 @@
 layout: page
 
 title: Speaking
-subtitle: Experienced speaker, moderator, emcee and podcast host.
+subtitle: Experienced speaker, instructor, moderator, and podcast host.
 permalink: /speaking/
 
 hero_height: is-fullwidth
