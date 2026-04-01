@@ -12,6 +12,12 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 <h2> Conferences & Events </h2>
 
 <div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">TDWI Virtual Summit: Modern Data & AI Governance Playbook: Quality, Security, and Compliance | March 2026 </p>
+Data and AI Governance: Building Trust and Managing Risk (Recording Coming Soon!)
+</div>
+<div style="line-height:150%;"><br></div>
+
+<div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">CLE AI & DATA | January 2026 </p>
 Designing AI Around Outcomes: A Product Approach to Adoption, Risk, and Real Problems
 </div>
@@ -162,10 +168,15 @@ Down to a Science? How to Train AI Models</div>
 
 
 <h2> Teaching </h2>
-- Instructor: Business Analytics Credential - Denison Edge, Denison University 
+### Denison University & Denison Edge
+- Analytics Strategies in Business Credential
+- AI Accelerator: AI Foundations for Innovation & Industry
+- AI Accelerator: Applied AI for Innovation & Industry
+- AI Expectations: Responsible Use, Governance, and Trust
 
 
-<h2> Media </h2>
+<h2> Media & Blogs </h2>
+- <a href="https://tdwi.org/blogs/ai-ready-data/2026/03/qanda-overcoming-ai-and-data-governance-challenges.aspx" target="_blank" style="text-decoration: none; color:#02505d">Q&A: Overcoming AI & Data Governance Challenges</a> (TDWI)
 - <a href="https://edge.denison.edu/blog/ai-literacy-in-the-workplace-essential-skills-for-every-professional" target="_blank" style="text-decoration: none; color:#02505d">AI Literacy in the Workplace: Essential Skills for Every Professional</a> (Denison Edge)
 - <a href="https://www.ohiox.org/profiles/lauren-burke" target="_blank" style="text-decoration: none; color:#02505d">Ohio Trailblazer Award Profile</a> (OhioX)
 - <a href="https://edge.ehe.osu.edu/2023/02/08/women-in-science-lauren-burke" target="_blank" style="text-decoration: none; color:#02505d">Women in Science - Lauren Burke</a> (The Ohio State University EDGE)
