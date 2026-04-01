@@ -12,7 +12,7 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 <h2> Conferences & Events </h2>
 
 Upcoming: 
-- ODSC East - Boston, MA | April 2026
+ODSC East - Boston, MA | April 2026
 
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">TDWI Virtual Summit: Modern Data & AI Governance Playbook: Quality, Security, and Compliance | March 2026 </p>
@@ -140,9 +140,6 @@ Building and Growing a Personal Brand in Data, featuring Kate Strachnyi, Founder
 
 
 <h2> Podcasts </h2>
-
-https://www.youtube.com/watch?v=yu9MPI0qy68
-
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">Noah on AI<a href="https://www.youtube.com/watch?v=yu9MPI0qy68" target="_blank" style="text-decoration: none; font-weight:900;"> (Watch Here)</a></p>
 10 Minutes on AI: With Lauren-Burke McCarthy
