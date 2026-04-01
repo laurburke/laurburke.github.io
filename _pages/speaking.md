@@ -141,6 +141,14 @@ Building and Growing a Personal Brand in Data, featuring Kate Strachnyi, Founder
 
 <h2> Podcasts </h2>
 
+https://www.youtube.com/watch?v=yu9MPI0qy68
+
+<div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">Noah on AI<a href="https://www.youtube.com/watch?v=yu9MPI0qy68" target="_blank" style="text-decoration: none; font-weight:900;"> (Watch Here)</a></p>
+10 Minutes on AI: With Lauren-Burke McCarthy
+</div>
+<div style="line-height:150%;"><br></div>
+
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC Minisode<a href="https://odsc.medium.com/ais-bright-future-insights-from-odsc-east-2025-podcast-minisodes-2013ee14a8ab" target="_blank" style="text-decoration: none; font-weight:900;"> (Listen Here)</a></p>
 Cal Al-Dhubaib & Lauren Burke-McCarthy (Further) — Balancing AI Value and Risk
