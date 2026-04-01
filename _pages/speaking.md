@@ -11,6 +11,9 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 
 <h2> Conferences & Events </h2>
 
+Upcoming: 
+- ODSC East - Boston, MA | April 2026
+
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">TDWI Virtual Summit: Modern Data & AI Governance Playbook: Quality, Security, and Compliance | March 2026 </p>
 Data and AI Governance: Building Trust and Managing Risk (Recording Coming Soon!)
