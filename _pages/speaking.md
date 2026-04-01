@@ -2,7 +2,7 @@
 layout: page
 
 title: Speaking
-subtitle: Experienced speaker, instructor, moderator, and podcast host.
+subtitle: Experienced speaker, adjunct instructor, moderator, and podcast host.
 permalink: /speaking/
 
 hero_height: is-fullwidth
@@ -23,6 +23,11 @@ Designing AI Around Outcomes: A Product Approach to Adoption, Risk, and Real Pro
 </div>
 <div style="line-height:150%;"><br></div>
 
+<div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">DataConnect Conference | October 2025 </p>
+Fireside Chat: The CDO as a Change Agent: Building Trust & Value Inside the Org and Across the Community (with Salema Rice)
+</div>
+<div style="line-height:150%;"><br></div>
 
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC East | May 2025 </p>
