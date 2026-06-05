@@ -11,8 +11,11 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 
 <h2> Conferences & Events </h2>
 
-Upcoming: 
-ODSC East - Boston, MA | April 2026
+<div STYLE="line-height:1.4">
+<p style="text-decoration: none; color:#02505d; font-weight:900;">ODSC East | April 2026 </p>
+Beyond the Hype: How Enterprises and Teams Transform with AI (AI X Leadership Summit Workshop)
+</div>
+<div style="line-height:150%;"><br></div>
 
 <div STYLE="line-height:1.4">
 <p style="text-decoration: none; color:#02505d; font-weight:900;">TDWI Virtual Summit: Modern Data & AI Governance Playbook: Quality, Security, and Compliance | March 2026 </p>
