@@ -7,6 +7,7 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 show_avatar: yes
 
 ---
+I help organizations find creative solutions to complex problems, turning data and AI opportunities into scalable solutions that drive tangible impact where it matters most. 
 
 I am a product-focused data scientist with experience leading the development of solutions that understand user needs, inform decisions, enhance products, and discover and prioritize opportunities across the healthcare, retail, customer experience, and technology sectors. I have experience scoping and managing projects, aligning business goals with best practices, communicating complex concepts to all audiences, and delivering end-user-focused documentation.
 
