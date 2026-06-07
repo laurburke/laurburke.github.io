@@ -7,11 +7,29 @@ hero_image: /assets/images/site_images/backgrounds/lightest-blue-bright.png
 show_avatar: yes
 
 ---
+<br>
+
+## AI, Data & Product Strategy
+
 I help organizations find creative solutions to complex problems, turning data and AI opportunities into scalable solutions that drive tangible impact where it matters most. 
 
-I am a product-focused data scientist with experience leading the development of solutions that understand user needs, inform decisions, enhance products, and discover and prioritize opportunities across the healthcare, retail, customer experience, and technology sectors. I have experience scoping and managing projects, aligning business goals with best practices, communicating complex concepts to all audiences, and delivering end-user-focused documentation.
+As a product-minded AI strategy and data science leader with 10+ years of experience, I've delivered enterprise AI and data solutions, led cross-functional transformations, and operationalized responsible AI in regulated industries. 
 
-Outside of work, I'm an active member of my local and larger tech communities. As the Director of Operations of Women in Analytics, a global community that promotes visibility to women making an impact in the analytics space, my primary focuses lie in marketing, strategy, and community growth. Since joining the team, we have launched multiple initiatives including the Ambassador Program, Women to Watch, Membership, WIA After Hours Podcast, and merchandise while expanding numerous others.
+My focus is on building solutions that prioritize people, outcomes, and trust. I’ve led 0→1 data, ML, and AI initiatives that address user needs, improve decision-making, strengthen products, and deliver measurable value for organizations and end users.
+
+
+## Responsible AI & Governance
+
+As a certified IAPP AI Governance Professional (AIGP), I translate ambiguous opportunities into practical solutions, scalable operating models, and governable delivery plans that support responsible, measurable outcomes.
+          
+I've built playbooks, frameworks, and processes that integrate responsible AI, product design, and development best practices to move opportunities from pilot to production through MVPs and 1→N roadmaps, while embedding launch readiness, adoption planning, user validation, and risk mitigation.
+
+
+## Industries
+Healthcare • Pharmaceutical • Retail • E-commerce • Supply Chain • Manufacturing • Customer Experience • Technology • Finance • Higher Education
+
+
+
 <br><br>
 
 #### Let's Connect!
